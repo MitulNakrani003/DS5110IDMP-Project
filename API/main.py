@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import pymysql
 import json
 from config import DatabaseConfig
+from pathAssistant import MBTAAssistant
 
 app = FastAPI(title="MBTA System API")
 
@@ -186,6 +187,12 @@ async def get_stations_by_line(line_name: str):
         
     except Exception as e:
         return {"error": str(e)}
+
+@app.get("/api/route/{start_station}/{end_station}")
+async def get_route_between_stations(start_station: str, end_station: str):
+    """Get route information between start and end stations"""
+    assistant = MBTAAssistant()
+    return assistant.get_route(start_station, end_station)
 
 if __name__ == "__main__":
     import uvicorn
