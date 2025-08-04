@@ -10,9 +10,106 @@ import threading
 
 st.set_page_config(page_title="AI Assistant", layout="wide")
 
-# Page header
-st.title("🤖 AI Assistant for Subway Data Analysis")
-st.markdown("Ask questions about the Boston subway network and get instant SQL-powered insights!")
+# Custom CSS for better styling
+st.markdown("""
+<style>
+    .main-header {
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        padding: 20px;
+        border-radius: 15px;
+        margin-bottom: 30px;
+        color: white;
+        text-align: center;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    
+    .filter-container {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 25px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    
+    .stats-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 15px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    
+    .legend-container {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 15px;
+        margin: 20px 0;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    
+    .conn-table table {
+        border-collapse: separate; 
+        border-spacing: 0 8px; 
+        width: 100%;
+        margin-top: 15px;
+    }
+    
+    .conn-table th {
+        text-align: left; 
+        font-size: 14px; 
+        color: #334155; 
+        padding: 12px 15px;
+        background: #f8fafc;
+        border-bottom: 2px solid #e2e8f0;
+        font-weight: 600;
+    }
+    
+    .conn-table td {
+        background: #ffffff; 
+        padding: 15px; 
+        font-size: 14px; 
+        vertical-align: middle;
+        border: 1px solid #e2e8f0;
+    }
+    
+    .conn-table tr td:first-child {
+        border-top-left-radius: 10px; 
+        border-bottom-left-radius: 10px;
+    }
+    
+    .conn-table tr td:last-child {
+        border-top-right-radius: 10px; 
+        border-bottom-right-radius: 10px;
+    }
+    
+    .conn-table tbody tr:hover td {
+        background: #f1f5f9;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        transition: all 0.2s ease;
+    }
+    
+    .download-section {
+        background: #f0f9ff;
+        border: 1px solid #0ea5e9;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 25px;
+        text-align: center;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Header
+st.markdown("""
+<div class="main-header">
+    <h1 style="margin: 0; font-size: 2.5em;">🤖 AI Assistant for Subway Data Analysis</h1>
+    <p style="margin: 5px 0 0 0; opacity: 0.9;">Ask questions about the Boston subway network and get instant SQL-powered insights!</p>
+</div>
+""", unsafe_allow_html=True)
 
 # Initialize session state
 if 'chat_history' not in st.session_state:
@@ -24,7 +121,7 @@ if 'db_conn' not in st.session_state:
 
 # Sidebar for API configuration
 with st.sidebar:
-    st.header("🔧 Configuration")
+    st.header("Configuration")
     
     # API Key input
     api_key = st.text_input(
@@ -38,9 +135,9 @@ with st.sidebar:
         st.session_state.api_key = api_key
         # Initialize OpenAI client with new API format
         openai_client = openai.OpenAI(api_key=api_key)
-        st.success("✅ API Key configured!")
+        st.success("API Key configured!")
     else:
-        st.warning("⚠️ Please enter your OpenAI API key to use the AI assistant")
+        st.warning("Please enter your OpenAI API key to use the AI assistant")
         openai_client = None
     
     st.markdown("---")
@@ -221,27 +318,6 @@ def create_visualization(df, question):
         st.warning(f"Could not create visualization: {str(e)}")
         return None
 
-
-# Example questions
-st.markdown("**💡 Example Questions:**")
-example_questions = [
-    "Which line has the most stations?",
-    "What is the average travel time for each line?",
-    "Show me the top 5 stations with the most connections",
-    "Which connection takes the longest time?",
-    "How many stations are on the red line?",
-    "What is the total travel time for all connections?",
-    "Show me stations that serve multiple lines",
-    "Which line has the fastest average travel time?"
-]
-
-# Display example questions as clickable buttons
-cols = st.columns(2)
-for i, question in enumerate(example_questions):
-    with cols[i % 2]:
-        if st.button(f"❓ {question}", key=f"example_{i}"):
-            st.session_state.user_question = question
-
 # User input
 user_question = st.text_input(
     "Ask your question:",
@@ -250,33 +326,33 @@ user_question = st.text_input(
 )
 
 # Process the question
-if user_question and st.button("🚀 Generate Analysis", type="primary"):
+if user_question and st.button("Generate Analysis", type="primary"):
     if not api_key:
         st.error("Please enter your OpenAI API key in the sidebar first!")
     else:
-        with st.spinner("🤖 Generating SQL query..."):
+        with st.spinner("Generating SQL query..."):
             # Generate SQL query
             sql_query = generate_sql_query(user_question, openai_client)
             
             if sql_query:
-                st.success("✅ SQL Query Generated!")
+                st.success("SQL Query Generated!")
                 
                 # Display the generated SQL
-                with st.expander("🔍 Generated SQL Query", expanded=True):
+                with st.expander("Generated SQL Query", expanded=True):
                     st.code(sql_query, language="sql")
                 
                 # Execute the query
-                with st.spinner("📊 Executing query..."):
+                with st.spinner("Executing query..."):
                     result_df, error = execute_sql_query(sql_query)
                 
                 if error:
-                    st.error(f"❌ SQL Error: {error}")
+                    st.error(f"SQL Error: {error}")
                     st.info("💡 Tip: The AI might need to adjust the query. Try rephrasing your question.")
                 elif result_df is not None:
-                    st.success(f"✅ Query executed successfully! Found {len(result_df)} results.")
+                    st.success(f"Query executed successfully! Found {len(result_df)} results.")
                     
                     # Display results
-                    st.subheader("📋 Results")
+                    st.subheader("Results")
                     
                     # Show data
                     col1, col2 = st.columns([2, 1])
@@ -285,7 +361,7 @@ if user_question and st.button("🚀 Generate Analysis", type="primary"):
                         st.dataframe(result_df, use_container_width=True)
                     
                     with col2:
-                        st.markdown("**📊 Data Summary:**")
+                        st.markdown("**Data Summary:**")
                         st.write(f"**Rows:** {len(result_df)}")
                         st.write(f"**Columns:** {len(result_df.columns)}")
                         if len(result_df) > 0:
@@ -293,13 +369,13 @@ if user_question and st.button("🚀 Generate Analysis", type="primary"):
                     
                     # Create visualization
                     if len(result_df) > 0:
-                        st.subheader("📈 Visualization")
+                        st.subheader("Visualization")
                         fig = create_visualization(result_df, user_question)
                         
                         if fig:
                             st.plotly_chart(fig, use_container_width=True)
                         else:
-                            st.info("📊 Data displayed in table format above")
+                            st.info("Data displayed in table format above")
                     
                     # Add to chat history
                     chat_entry = {
@@ -311,14 +387,14 @@ if user_question and st.button("🚀 Generate Analysis", type="primary"):
                     st.session_state.chat_history.append(chat_entry)
                     
                 else:
-                    st.error("❌ Failed to execute query")
+                    st.error("Failed to execute query")
 
 # Chat history
 if st.session_state.chat_history:
-    st.header("📚 Chat History")
+    st.header("Chat History")
     
     for i, entry in enumerate(reversed(st.session_state.chat_history)):
-        with st.expander(f"💬 {entry['question']} ({entry['timestamp'].strftime('%H:%M')})", expanded=False):
+        with st.expander(f" {entry['question']} ({entry['timestamp'].strftime('%H:%M')})", expanded=False):
             st.markdown(f"**Question:** {entry['question']}")
             st.code(entry['sql'], language="sql")
             

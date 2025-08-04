@@ -99,8 +99,8 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1 style="margin: 0; font-size: 2.5em;">🚉 Connections by Line</h1>
-    <p style="margin: 5px 0 0 0; opacity: 0.9;">Explore and filter metro connections across different lines</p>
+    <h1 style="margin: 0; font-size: 2.5em;">🚉 Station Connections Analytics</h1>
+    <p style="margin: 5px 0 0 0; opacity: 0.9;">Explore and filter train connections across different lines</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -128,7 +128,7 @@ with st.expander("🔍 **Filter Options**", expanded=True):
     col1, col2, col3 = st.columns([1, 1, 1])
     
     with col1:
-        st.markdown("**📊 Line Filter**")
+        st.markdown("**Line Filter**")
         line_options = sorted(connections_df["Color"].dropna().unique().tolist())
         sel_lines = st.multiselect(
             "Select line(s)",
@@ -139,7 +139,7 @@ with st.expander("🔍 **Filter Options**", expanded=True):
         )
     
     with col2:
-        st.markdown("**⏱️ Time Filter**")
+        st.markdown("**Time Filter**")
         if connections_df["Minutes"].notna().any():
             mn = float(connections_df["Minutes"].min())
             mx = float(connections_df["Minutes"].max())
@@ -154,7 +154,7 @@ with st.expander("🔍 **Filter Options**", expanded=True):
             sel_min, sel_max = None, None
     
     with col3:
-        st.markdown("**🔍 Search Filter**")
+        st.markdown("**Search Filter**")
         q = st.text_input(
             "Search stations", 
             "", 
@@ -179,8 +179,8 @@ if q:
     ]
 
 # --- Statistics Cards ---
-st.markdown("### 📈 Connection Statistics")
-stats_col1, stats_col2, stats_col3, stats_col4 = st.columns(4)
+st.markdown("### Connection Statistics")
+stats_col1, stats_col2, stats_col3 = st.columns(3)
 
 with stats_col1:
     st.markdown(f"""
@@ -193,20 +193,12 @@ with stats_col1:
 with stats_col2:
     st.markdown(f"""
     <div class="stats-card">
-        <h3 style="margin: 0; color: #667eea;">{len(df['From'].unique()):,}</h3>
-        <p style="margin: 5px 0 0 0; color: #64748b;">Unique Stations</p>
-    </div>
-    """, unsafe_allow_html=True)
-
-with stats_col3:
-    st.markdown(f"""
-    <div class="stats-card">
         <h3 style="margin: 0; color: #667eea;">{len(df['Color'].unique()):,}</h3>
         <p style="margin: 5px 0 0 0; color: #64748b;">Active Lines</p>
     </div>
     """, unsafe_allow_html=True)
 
-with stats_col4:
+with stats_col3:
     avg_time = df["Minutes"].mean() if "Minutes" in df.columns and df["Minutes"].notna().any() else 0
     st.markdown(f"""
     <div class="stats-card">
@@ -233,23 +225,9 @@ df_display = pd.DataFrame({
     "Minutes": df["Minutes"] if "Minutes" in df.columns else None
 })
 
-# --- Legend ---
-#st.markdown('<div class="legend-container">', unsafe_allow_html=True)
-st.markdown("**🎨 Line Legend**")
-legend_html = "<div style='display:flex;flex-wrap:wrap;gap:10px;margin:10px 0;'>"
-for name, hexcolor in color_map.items():
-    legend_html += (
-        f"<span style='background:{hexcolor};color:white;padding:6px 15px;border-radius:999px;"
-        f"font-weight:600;font-size:13px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'>"
-        f"{name.title()}</span>"
-    )
-legend_html += "</div>"
-st.markdown(legend_html, unsafe_allow_html=True)
-st.markdown('</div>', unsafe_allow_html=True)
-
 # --- Results Section ---
-st.markdown("### 📋 Connection Details")
-st.caption(f"Showing {len(df_display):,} connections based on your filters")
+st.markdown("### Connection Details")
+st.caption(f"Showing {len(df_display):,} connections based on the selectedfilters")
 
 # Render table as HTML
 st.markdown(

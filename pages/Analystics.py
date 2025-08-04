@@ -7,7 +7,106 @@ from plotly.subplots import make_subplots
 import numpy as np
 
 st.set_page_config(page_title="Boston Subway Analytics", layout="wide")
-st.title("📊 Boston Subway Network Analytics")
+
+# Custom CSS for better styling
+st.markdown("""
+<style>
+    .main-header {
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        padding: 20px;
+        border-radius: 15px;
+        margin-bottom: 30px;
+        color: white;
+        text-align: center;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    
+    .filter-container {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 25px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    
+    .stats-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 15px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    
+    .legend-container {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 15px;
+        margin: 20px 0;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    
+    .conn-table table {
+        border-collapse: separate; 
+        border-spacing: 0 8px; 
+        width: 100%;
+        margin-top: 15px;
+    }
+    
+    .conn-table th {
+        text-align: left; 
+        font-size: 14px; 
+        color: #334155; 
+        padding: 12px 15px;
+        background: #f8fafc;
+        border-bottom: 2px solid #e2e8f0;
+        font-weight: 600;
+    }
+    
+    .conn-table td {
+        background: #ffffff; 
+        padding: 15px; 
+        font-size: 14px; 
+        vertical-align: middle;
+        border: 1px solid #e2e8f0;
+    }
+    
+    .conn-table tr td:first-child {
+        border-top-left-radius: 10px; 
+        border-bottom-left-radius: 10px;
+    }
+    
+    .conn-table tr td:last-child {
+        border-top-right-radius: 10px; 
+        border-bottom-right-radius: 10px;
+    }
+    
+    .conn-table tbody tr:hover td {
+        background: #f1f5f9;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        transition: all 0.2s ease;
+    }
+    
+    .download-section {
+        background: #f0f9ff;
+        border: 1px solid #0ea5e9;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 25px;
+        text-align: center;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Header
+st.markdown("""
+<div class="main-header">
+    <h1 style="margin: 0; font-size: 2.5em;">📊 Boston Subway Network Analytics</h1>
+</div>
+""", unsafe_allow_html=True)
 
 # --- Load Data ---
 @st.cache_data
@@ -27,7 +126,7 @@ color_map = {
 }
 
 # --- Network Analysis ---
-st.header("🌐 Network Structure Analysis")
+st.header("Network Structure Analysis")
 
 # Create network graph
 G = nx.DiGraph()
@@ -52,7 +151,7 @@ with col4:
     st.metric("Network Density", f"{density:.3f}")
 
 # --- Line Analysis ---
-st.subheader("🚇 Line Performance Analysis")
+st.subheader("Line Performance Analysis")
 
 # Line statistics
 line_stats = connections_df.groupby("Color").agg({
@@ -105,7 +204,7 @@ fig_line_comparison.update_layout(height=600, showlegend=False, title_text="Line
 st.plotly_chart(fig_line_comparison, use_container_width=True)
 
 # --- Station Connectivity Analysis ---
-st.subheader("🔗 Station Connectivity Analysis")
+st.subheader("Station Connectivity Analysis")
 
 # Calculate degree centrality for each station
 degree_centrality = nx.degree_centrality(G)
@@ -135,18 +234,8 @@ fig_top_stations = px.bar(
 fig_top_stations.update_layout(xaxis_tickangle=-45)
 st.plotly_chart(fig_top_stations, use_container_width=True)
 
-# Centrality correlation heatmap
-centrality_corr = centrality_df[["Degree_Centrality", "Betweenness_Centrality", "Closeness_Centrality"]].corr()
-fig_heatmap = px.imshow(
-    centrality_corr,
-    title="Centrality Metrics Correlation",
-    color_continuous_scale="RdBu",
-    aspect="auto"
-)
-st.plotly_chart(fig_heatmap, use_container_width=True)
-
 # --- Travel Time Analysis ---
-st.subheader("⏱️ Travel Time Analysis")
+st.subheader("Travel Time Analysis")
 
 # Travel time distribution
 fig_time_dist = px.histogram(
@@ -170,7 +259,7 @@ fig_time_by_line = px.histogram(
 st.plotly_chart(fig_time_by_line, use_container_width=True)
 
 # --- Network Efficiency Analysis ---
-st.subheader("📈 Network Efficiency Analysis")
+st.subheader("Network Efficiency Analysis")
 
 # Calculate shortest paths
 def calculate_network_efficiency():
@@ -203,7 +292,7 @@ fig_avg_travel.update_layout(xaxis_tickangle=-45)
 st.plotly_chart(fig_avg_travel, use_container_width=True)
 
 # --- Geographic Analysis ---
-st.subheader("🗺️ Geographic Network Analysis")
+st.subheader("Geographic Network Analysis")
 
 # Merge location data with centrality data
 locations_analysis = locations_df.merge(centrality_df, left_on="Station Name", right_on="Station", how="left")
@@ -226,55 +315,31 @@ fig_geo_connectivity.update_layout(
 )
 st.plotly_chart(fig_geo_connectivity, use_container_width=True)
 
-# --- Operational Insights ---
-st.subheader("💡 Operational Insights")
+# --- Key Insights ---
+st.subheader("Key Insights")
 
-# Key insights
+most_efficient_line = line_stats["Efficiency"].idxmin()
+busiest_station = centrality_df.loc[centrality_df["Total_Connections"].idxmax(), "Station"]
+# Number of isolated components
+longest_connection = connections_df.loc[connections_df["Minutes"].idxmax()]
+
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("### 🎯 Key Findings")
-    
-    # Most efficient line
-    most_efficient_line = line_stats["Efficiency"].idxmin()
-    st.info(f"**Most Efficient Line**: {most_efficient_line.title()} (lowest average time per connection)")
-    
-    # Busiest station
-    busiest_station = centrality_df.loc[centrality_df["Total_Connections"].idxmax(), "Station"]
-    st.info(f"**Busiest Station**: {busiest_station} ({centrality_df['Total_Connections'].max()} connections)")
-    
-    # Longest connection
-    longest_connection = connections_df.loc[connections_df["Minutes"].idxmax()]
-    st.info(f"**Longest Connection**: {longest_connection['From']} → {longest_connection['To']} ({longest_connection['Minutes']} min)")
-
-with col2:
-    st.markdown("### 📊 Network Statistics")
-    
-    # Network diameter
-    try:
-        diameter = nx.diameter(G)
-        st.metric("Network Diameter", f"{diameter} stations")
-    except:
-        st.metric("Network Diameter", "Not connected")
-    
-    # Average clustering coefficient
-    clustering_coeff = nx.average_clustering(G.to_undirected())
-    st.metric("Average Clustering", f"{clustering_coeff:.3f}")
-    
-    # Number of isolated components
-    components = list(nx.strongly_connected_components(G))
-    st.metric("Connected Components", len(components))
+    st.write(f"**Most Efficient Liner:** {most_efficient_line.title()} (lowest average time per connection)")
+    st.write(f"**Busiest Station:** {busiest_station} ({centrality_df['Total_Connections'].max()} connections)")
+    st.write(f"**Longest Connection:** {longest_connection['From']} → {longest_connection['To']} ({longest_connection['Minutes']} min)")
+   
 
 
 # --- Data Summary Table ---
-st.subheader("📋 Network Summary Table")
+st.subheader("Network Summary")
 summary_data = {
-    "Metric": ["Total Stations", "Total Connections", "Average Travel Time", "Network Density", "Most Connected Station"],
+    "Metric": ["Total Stations", "Total Connections", "Average Travel Time", "Most Connected Station"],
     "Value": [
         total_stations,
         total_connections,
         f"{connections_df['Minutes'].mean():.2f} minutes",
-        f"{density:.3f}",
         busiest_station
     ]
 }
@@ -283,4 +348,3 @@ st.table(summary_df)
 
 # Footer
 st.markdown("---")
-st.caption("Analytics based on Boston subway network data. Metrics include network centrality, travel efficiency, and operational insights.")
