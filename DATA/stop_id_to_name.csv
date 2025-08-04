@@ -1,0 +1,3468 @@
+stop_id,stop_name
+1,Washington St opp Ruggles St
+11384,Dartmouth St @ Back Bay Sta
+117,Congress St @ Haymarket Sta
+1389,Boylston St @ Prudential Center
+1395,Dartmouth St @ Appleton St
+1396,Dartmouth St @ Tremont St
+1397,Opp 43 W Dedham St
+1398,W Dedham St @ Washington St
+143,Boylston St @ Clarendon St
+15176,Washington St @ Worcester St
+16535,Otis St @ Summer St
+170136,Babcock Street
+170137,Babcock Street
+170140,Amory Street
+170141,Amory Street
+17091,Terminal A
+17093,Terminal B Stop 2 - Arrivals Level
+17094,Terminal C - Arrivals Level
+17095,Terminal E - Arrivals Level
+17096,Congress St @ World Trade Center Sta
+173,Saint James Ave @ Berkeley St
+175,Boylston St @ Dartmouth St
+176,Dartmouth St opp Back Bay Sta
+177,Saint James Ave @ Arlington St
+178,Saint James Ave @ Dartmouth St
+188,Massachusetts Ave @ Massachusetts Ave Station
+191,Congress St @ North St
+19402,Washington St @ W Newton St
+2,Washington St @ Melnea Cass Blvd
+23391,Back Bay
+27092,Terminal B Stop 1 - Arrivals Level
+2829,N Washington St @ Medford St
+29014,Sullivan Square
+30088,Savin Hill - Dorchester Ave @ Bay St
+34500,Dorchester Ave @ Lincoln St - Fields Corner Sta
+34503,Dorchester Ave @ Fields Corner Station
+4,Washington St @ Lenox St
+4510,Cambridge St @ Government Ctr Sta
+4511,Sudbury St @ Congress St - Haymarket Sta
+5,Washington St @ Massachusetts Ave
+55,Washington St @ Massachusetts Ave
+60,Washington St @ Lenox St
+62,Washington St @ Williams St
+63,Washington St @ Ruggles St
+64,Nubian
+65,State St @ Washington Mall - State St Sta
+6542,Kneeland St @ Washington St
+6550,Lincoln St @ Essex St
+6551,Federal St @ Franklin St
+6555,Chinatown Gate
+70001,Forest Hills
+70002,Green Street
+70003,Green Street
+70004,Stony Brook
+70005,Stony Brook
+70006,Jackson Square
+70007,Jackson Square
+70008,Roxbury Crossing
+70009,Roxbury Crossing
+70010,Ruggles
+70011,Ruggles
+70012,Massachusetts Avenue
+70013,Massachusetts Avenue
+70014,Back Bay
+70015,Back Bay
+70016,Tufts Medical Center
+70017,Tufts Medical Center
+70018,Chinatown
+70019,Chinatown
+70020,Downtown Crossing
+70021,Downtown Crossing
+70022,State
+70023,State
+70024,Haymarket
+70025,Haymarket
+70026,North Station
+70027,North Station
+70028,Community College
+70029,Community College
+70030,Sullivan Square
+70031,Sullivan Square
+70032,Wellington
+70033,Wellington
+70034,Malden Center
+70035,Malden Center
+70036,Oak Grove
+70038,Bowdoin
+70039,Government Center
+70040,Government Center
+70041,State
+70042,State
+70043,Aquarium
+70044,Aquarium
+70045,Maverick
+70046,Maverick
+70047,Airport
+70048,Airport
+70049,Wood Island
+70050,Wood Island
+70051,Orient Heights
+70052,Orient Heights
+70053,Suffolk Downs
+70054,Suffolk Downs
+70055,Beachmont
+70056,Beachmont
+70057,Revere Beach
+70058,Revere Beach
+70059,Wonderland
+70060,Wonderland
+70061,Alewife
+70063,Davis
+70064,Davis
+70065,Porter
+70066,Porter
+70067,Harvard
+70068,Harvard
+70069,Central
+70070,Central
+70071,Kendall/MIT
+70072,Kendall/MIT
+70073,Charles/MGH
+70074,Charles/MGH
+70075,Park Street
+70076,Park Street
+70077,Downtown Crossing
+70078,Downtown Crossing
+70079,South Station
+70080,South Station
+70081,Broadway
+70082,Broadway
+70083,Andrew
+70084,Andrew
+70085,JFK/UMass
+70086,JFK/UMass
+70087,Savin Hill
+70088,Savin Hill
+70089,Fields Corner
+70090,Fields Corner
+70091,Shawmut
+70092,Shawmut
+70093,Ashmont
+70094,Ashmont
+70095,JFK/UMass
+70096,JFK/UMass
+70097,North Quincy
+70098,North Quincy
+70099,Wollaston
+70100,Wollaston
+70101,Quincy Center
+70102,Quincy Center
+70103,Quincy Adams
+70104,Quincy Adams
+70105,Braintree
+70106,Boston College
+70107,Boston College
+70110,South Street
+70111,South Street
+70112,Chestnut Hill Avenue
+70113,Chestnut Hill Avenue
+70114,Chiswick Road
+70115,Chiswick Road
+70116,Sutherland Road
+70117,Sutherland Road
+70120,Washington Street
+70121,Washington Street
+70124,Warren Street
+70125,Warren Street
+70126,Allston Street
+70127,Allston Street
+70128,Griggs Street
+70129,Griggs Street
+70130,Harvard Avenue
+70131,Harvard Avenue
+70134,Packard's Corner
+70135,Packard's Corner
+70144,Boston University Central
+70145,Boston University Central
+70146,Boston University East
+70147,Boston University East
+70148,Blandford Street
+70149,Blandford Street
+70150,Kenmore
+70151,Kenmore
+70152,Hynes Convention Center
+70153,Hynes Convention Center
+70154,Copley
+70155,Copley
+70156,Arlington
+70157,Arlington
+70158,Boylston
+70159,Boylston
+70160,Riverside
+70161,Riverside
+70162,Woodland
+70163,Woodland
+70164,Waban
+70165,Waban
+70166,Eliot
+70167,Eliot
+70168,Newton Highlands
+70169,Newton Highlands
+70170,Newton Centre
+70171,Newton Centre
+70172,Chestnut Hill
+70173,Chestnut Hill
+70174,Reservoir
+70175,Reservoir
+70176,Beaconsfield
+70177,Beaconsfield
+70178,Brookline Hills
+70179,Brookline Hills
+70180,Brookline Village
+70181,Brookline Village
+70182,Longwood
+70183,Longwood
+70186,Fenway
+70187,Fenway
+70196,Park Street
+70197,Park Street
+70198,Park Street
+70199,Park Street
+70200,Park Street
+70201,Government Center
+70202,Government Center
+70203,Haymarket
+70204,Haymarket
+70205,North Station
+70206,North Station
+70207,Science Park/West End
+70208,Science Park/West End
+70211,Saint Mary's Street
+70212,Saint Mary's Street
+70213,Hawes Street
+70214,Hawes Street
+70215,Kent Street
+70216,Kent Street
+70217,Saint Paul Street
+70218,Saint Paul Street
+70219,Coolidge Corner
+70220,Coolidge Corner
+70223,Summit Avenue
+70224,Summit Avenue
+70225,Brandon Hall
+70226,Brandon Hall
+70227,Fairbanks Street
+70228,Fairbanks Street
+70229,Washington Square
+70230,Washington Square
+70231,Tappan Street
+70232,Tappan Street
+70233,Dean Road
+70234,Dean Road
+70235,Englewood Avenue
+70236,Englewood Avenue
+70237,Cleveland Circle
+70238,Cleveland Circle
+70239,Prudential
+70240,Prudential
+70241,Symphony
+70242,Symphony
+70243,Northeastern University
+70244,Northeastern University
+70245,Museum of Fine Arts
+70246,Museum of Fine Arts
+70247,Longwood Medical Area
+70248,Longwood Medical Area
+70249,Brigham Circle
+70250,Brigham Circle
+70251,Fenwood Road
+70252,Fenwood Road
+70253,Mission Park
+70254,Mission Park
+70255,Riverway
+70256,Riverway
+70257,Back of the Hill
+70258,Back of the Hill
+70260,Heath Street
+70261,Ashmont
+70263,Cedar Grove
+70264,Cedar Grove
+70265,Butler
+70266,Butler
+70267,Milton
+70268,Milton
+70269,Central Avenue
+70270,Central Avenue
+70271,Valley Road
+70272,Valley Road
+70273,Capen Street
+70274,Capen Street
+70275,Mattapan
+70276,Mattapan
+70278,Assembly
+70279,Assembly
+70501,Lechmere
+70502,Lechmere
+70503,Union Square
+70504,Union Square
+70505,Gilman Square
+70506,Gilman Square
+70507,Magoun Square
+70508,Magoun Square
+70509,Ball Square
+70510,Ball Square
+70511,Medford/Tufts
+70512,Medford/Tufts
+70513,East Somerville
+70514,East Somerville
+70838,Bowdoin
+7096,Airport
+7097,Airport
+71150,Kenmore
+71151,Kenmore
+71186,JFK/UMass - Columbia Rd @ I-93
+71199,Park Street
+71263,Adams St @ Milton St - Cedar Grove Sta
+71264,Adams St @ Milton St - Cedar Grove Sta
+71265,Adams St @ Butler St - Butler Sta
+71266,Adams St @ Butler St - Butler Sta
+71269,Eliot St @ Central Ave - Central Ave Sta
+71270,Eliot St @ Central Ave - Central Ave Sta
+71271,Eliot St @ Valley Rd Sta
+71272,Eliot St opp Valley Rd Sta
+71273,Eliot St opp Capen Street
+71274,Eliot St @ Capen Street - Capen St Sta
+71855,Stuart St @ Dartmouth St
+74611,South Station
+74612,Courthouse
+74613,World Trade Center
+74614,Silver Line Way
+74615,World Trade Center
+74616,Courthouse
+74617,South Station
+74624,Silver Line Way
+74630,Chelsea
+74631,Chelsea
+74632,Bellingham Square
+74633,Bellingham Square
+74634,Box District
+74635,Box District
+74636,Eastern Avenue
+74637,Eastern Avenue
+76127,Harvard
+87,Massachusetts Ave @ Tremont St
+89,Massachusetts Ave @ St Botolph St
+9070002,Green Street - Amory St @ Green St
+9070003,Green Street - Amory St @ Green St
+9070004,Stony Brook - Amory St @ Boylston St
+9070005,Stony Brook - Boylston St @ Stony Brook
+9070006,Jackson Square - Columbus Ave @ Centre St
+9070007,Jackson Square - Centre St opp Jackson Square Busway
+9070010,Ruggles - Tremont St @ Ruggles St
+9070012,Massachusetts Avenue - Columbus Ave @ Northampton St
+9070013,Massachusetts Avenue - Columbus Ave @ Massachusetts Ave
+9070022,State
+9070024,Haymarket - Congress St opp Hanover St
+9070025,Haymarket - Congress St @ Hanover St
+9070027,North Station
+9070039,Government Center - Cambridge St @ Sudbury St
+9070043,Aquarium - Surface Rd @ State St
+9070045,Maverick
+9070046,Maverick
+9070047,Airport
+9070049,Wood Island - Benningon St @ Wood Island Busway
+9070065,Porter - Massachusetts Avenue @ Mount Vernon St
+9070068,Harvard - Massachusetts Ave opp Linden St
+9070070,Central - Massachusetts Ave opp Pearl St
+9070071,Kendall/MIT - Main St opp Dock St
+9070072,Harvard - Brattle St @ Palmer St
+9070073,Charles/MGH - Cambridge St @ Lindall Pl
+9070074,Charles/MGH - 325 Cambridge St
+9070076,Park Street - Tremont St @ Winter St
+9070079,South Station - Summer St @ Surface Rd
+9070080,Downtown Crossing - Franklin St @ Washington St
+9070083,Andrew - Dorchester Ave @ Dexter St
+9070090,North Station - Nashua St @ Red Auerbach Way
+9070091,Science Park/West End - Nashua St @ Leverett Cir
+9070093,Science Park/West End - Martha Rd @ Amy Ct
+9070101,Quincy Center - 1259 Hancock St
+9070107,Boston College - Commonwealth Ave @ Lake St
+9070110,South Street - Commonwealth Ave opp South St
+9070111,South Street - Commonwealth Ave @ South St
+9070112,Chestnut Hill Avenue - Commonwealth Ave @ Chestnut Hill Ave
+9070113,Chestnut Hill Avenue - Commonwealth Ave @ Chestnut Hill Ave
+9070114,Chiswick Road - Commonwealth Ave @ Chiswick Rd
+9070115,Chiswick Road - Commonwealth Ave @ Chiswick Rd
+9070116,Sutherland Road - Commonwealth Ave @ Colborne Rd
+9070117,Sutherland Road - Commonwealth Ave @ Colborne Rd
+9070120,Washington Street - Commonwealth Ave @ Washington St
+9070121,Washington Street - Commonwealth Ave @ Washington St
+9070124,Warren Street - Commonwealth Ave @ Kelton St
+9070125,Warren Street - Commonwealth Ave @ Warren St
+9070128,Griggs Street - Commonwealth Ave @ Griggs St
+9070129,Griggs Street - Commonwealth Ave opp Griggs St
+9070130,Harvard Avenue - Commonwealth Ave @ Harvard Ave
+9070131,Harvard Avenue - Commonwealth Ave @ Harvard Ave
+9070134,Packard's Corner
+9070135,Packard's Corner
+9070150,Kenmore - 512 Commonwealth Ave
+9070151,Kenmore - 660 Beacon St
+9070152,Hynes Convention Center - Cambria St @ Boylston St
+9070154,Copley - Opp 575 Boylston St
+9070155,Copley - Saint James Ave @ Trinity Pl
+9070156,Arlington
+9070160,Riverside
+9070162,Woodland
+9070164,Waban - Beacon St @ Waban
+9070165,Waban - Beacon St opp Waban
+9070168,Newton Highlands
+9070169,Newton Highlands - Walnut St
+9070170,Newton Centre - Langley Rd @ Braeland Ave
+9070171,Newton Centre - Langley Rd opp Braeland Ave
+9070178,Brookline Hills - Boylston St @ Cypress St
+9070179,Brookline Hills - Boylston St @ Cypress St
+9070180,Brookline Village - Pearl St @ Brookline Place Parking
+9070184,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave
+9070185,Kenmore - Commonwealth Ave @ Kenmore St
+9070186,Boston University East - 610 Commonwealth Ave
+9070211,Saint Mary's Street
+9070212,Saint Mary's Street - Beacon St @ Saint Mary's St
+9070213,Hawes Street
+9070214,Hawes Street - 1089 Beacon St
+9070215,Kent Street
+9070216,Kent Street
+9070217,Saint Paul Street
+9070218,Saint Paul Street - 1253 Beacon St
+9070219,Coolidge Corner
+9070220,Coolidge Corner
+9070223,Summit Avenue - 1428 Beacon St
+9070224,Summit Avenue
+9070225,Brandon Hall
+9070226,Brandon Hall
+9070227,Fairbanks Street
+9070228,Fairbanks Street
+9070229,Washington Square
+9070230,Washington Square - 1601 Beacon St
+9070231,Tappan Street
+9070232,Tappan Street
+9070233,Dean Road
+9070234,Dean Road
+9070235,Englewood Avenue - 1856 Beacon St
+9070236,Englewood Avenue - 1855 Beacon St
+9070237,Cleveland Circle
+9070238,Cleveland Circle
+9070501,Lechmere - Water St @ Lechmere Busway
+9070502,Lechmere - Monsignor O'Brien Hwy opp Gore St
+9070503,Union Square - Prospect St @ Union Sq Station
+9070505,Gilman Square - Medford St opp Gilman Sq Station
+9070506,Gilman Square - Medford St @ Gilman Sq Station
+9070508,Magoun Square - Medford St @ Lowell St
+9070509,Ball Square - Boston Ave @ Broadway
+9070513,East Somerville - Joy St @ Washington St
+91,Massachusetts Ave @ Clearway St
+9170010,Ruggles - Columbus Ave @ St Cyprians
+9170012,Massachusetts Avenue - Columbus Ave @ Newcastle Ct
+9170014,Back Bay - Columbus Ave @ Dartmouth St
+9170024,Haymarket - Congress St @ New Sudbury St
+9170043,Aquarium - State St opp McKinley Sq
+9170047,Airport
+9170071,Kendall/MIT - Main St @ Hayward St
+9170076,Park Street - Tremont St opp Hamilton Pl
+9170084,Andrew - Dorchester Ave @ Leeds St
+9170099,Wollaston - Newport Ave @ Brook St
+9170100,Wollaston - Newport Ave opp Brook St
+9170120,Washington Street - Commonwealth Ave @ Washington St
+9170151,Kenmore - Commonwealth Ave @ Kenmore St
+9170152,Hynes - Commonwealth Ave @ Massachusetts Ave
+9170153,Hynes - Commonwealth Ave @ Massachusetts Ave
+9170154,Copley - Boylston St @ Dartmouth St
+9170168,Newton Highlands - Walnut St @ Lincoln St
+9170169,Newton Highlands - Walnut St @ Floral St
+9170178,Brookline Hills
+9170206,North Station - Lomasney Way @ Causeway St
+9170211,Fenway - Beacon St @ Park Dr
+9170212,Fenway - Beacon St @ Park Dr
+9170503,Union Square - Somerville Ave @ Prospect St
+9270014,Back Bay - 167 Dartmouth St
+9270022,State - Congress St @ State St
+9270047,Airport
+9370022,State - Devonshire St @ State St
+9370024,North Quincy - Hancock Street Garage
+9370041,Fields Corner - Geneva Ave @ Vinson St
+9370042,North Station - Nashua St @ Red Auerbach Way
+9983,Stuart St @ Charles St S
+Alewife-01,Alewife
+Alewife-02,Alewife
+BNT-0000,North Station
+BNT-0000-01,North Station
+BNT-0000-02,North Station
+BNT-0000-03,North Station
+BNT-0000-04,North Station
+BNT-0000-05,North Station
+BNT-0000-06,North Station
+BNT-0000-07,North Station
+BNT-0000-08,North Station
+BNT-0000-09,North Station
+BNT-0000-10,North Station
+BNT-0000-B1,North Station - Causeway St opp Beverly St
+BNT-0000-B2,North Station - Nashua St @ Red Auerbach Way
+Boat-Aquarium,Central Wharf (South)
+Boat-Blossom,Blossom Street Pier
+Boat-Charlestown,Charlestown Navy Yard
+Boat-Fan,Seaport/Fan Pier
+Boat-George,Georges Island
+Boat-Hingham,Hingham
+Boat-Hull,Hull
+Boat-Lewis,Lewis Mall Wharf
+Boat-Logan,Logan Airport Ferry Terminal
+Boat-Long,Long Wharf (North)
+Boat-Long-South,Long Wharf (South)
+Boat-Long-South-4,Long Wharf (South) - Gate 4
+Boat-Quincy,Quincy
+Boat-Rowes,Rowes Wharf
+Boat-Winthrop,Winthrop Landing
+Braintree-01,Braintree
+Braintree-02,Braintree
+CM-0493-S,Wareham Village
+CM-0547-S,Buzzards Bay
+CM-0564-S,Bourne
+CM-0790-S,Hyannis
+DB-0095,Readville
+DB-0095-B0,Readville - Lower Parking Lot
+DB-2205,Fairmount
+DB-2205-01,Fairmount
+DB-2205-02,Fairmount
+DB-2205-B0,Fairmount - Fairmount Ave opp Ramp
+DB-2205-B1,Fairmount - Fairmount Ave @ Ramp
+DB-2222,Blue Hill Avenue
+DB-2222-01,Blue Hill Avenue
+DB-2222-02,Blue Hill Avenue
+DB-2222-B0,Blue Hill Avenue - Blue Hill Ave @ Woodhaven St
+DB-2222-B1,Blue Hill Avenue - Blue Hill Ave opp Woodhaven St
+DB-2230,Morton Street
+DB-2230-01,Morton Street
+DB-2230-02,Morton Street
+DB-2230-B0,Morton Street - Morton St @ Evans St
+DB-2230-B1,Morton Street - Morton St opp Evans St
+DB-2240,Talbot Avenue
+DB-2240-01,Talbot Avenue
+DB-2240-02,Talbot Avenue
+DB-2240-B0,Talbot Avenue - Talbot Ave opp Pick-up/Drop-off
+DB-2240-B1,Talbot Avenue - Talbot Ave @ Pick-up/Drop-off
+DB-2249,Four Corners/Geneva
+DB-2249-01,Four Corners/Geneva
+DB-2249-02,Four Corners/Geneva
+DB-2249-B2,Four Corners/Geneva - Opp 198 Geneva Ave
+DB-2249-B3,Four Corners/Geneva - 198 Geneva Ave
+DB-2258,Uphams Corner
+DB-2258-01,Uphams Corner
+DB-2258-02,Uphams Corner
+DB-2258-B0,Uphams Corner - Dudley St @ Alexander St
+DB-2258-B1,Uphams Corner - Dudley St @ Clifton St
+DB-2265,Newmarket
+DB-2265-01,Newmarket
+DB-2265-02,Newmarket
+DB-2265-B1,Newmarket - Newmarket Sq @ Massachusetts Ave
+Dedham Corp Center-S,Dedham Corp Center
+ER-0042,Chelsea
+ER-0042-01,Chelsea
+ER-0042-02,Chelsea
+ER-0042-B,Chelsea
+ER-0099,River Works
+ER-0099-01,River Works
+ER-0099-02,River Works
+ER-0115,Lynn
+ER-0115-01,Lynn
+ER-0115-02,Lynn
+ER-0117-01,Lynn Interim
+ER-0117-02,Lynn Interim
+ER-0128,Swampscott
+ER-0128-01,Swampscott
+ER-0128-02,Swampscott
+ER-0128-B0,Swampscott - Railroad Ave @ Burrill St
+ER-0128-B1,Swampscott - Railroad Ave @ Pine St
+ER-0168-B,Salem - Busway
+ER-0168-S,Salem
+ER-0183,Beverly
+ER-0183-01,Beverly
+ER-0183-02,Beverly
+ER-0183-B,Beverly - Park St
+ER-0208,North Beverly
+ER-0208-01,North Beverly
+ER-0208-02,North Beverly
+ER-0208-B,North Beverly - Parking Lot
+ER-0208-B0,North Beverly - Enon St @ Dodge St
+ER-0208-B1,North Beverly - Enon St opp Dodge St
+ER-0227-B0,Hamilton/Wenham - Bay Rd opp Railroad Ave
+ER-0227-B1,Hamilton/Wenham - Bay Rd @ Railroad Ave
+ER-0227-S,Hamilton/Wenham
+ER-0276-B,Ipswich - Saltonstall St @ Market St
+ER-0276-S,Ipswich
+ER-0312-B,Rowley
+ER-0312-S,Rowley
+ER-0362,Newburyport
+ER-0362-01,Newburyport
+ER-0362-02,Newburyport
+ER-0362-B,Newburyport - Route 1 Parking
+FB-0095-04,Readville
+FB-0095-05,Readville
+FB-0109,Endicott
+FB-0109-01,Endicott
+FB-0109-02,Endicott
+FB-0118,Dedham Corporate Center
+FB-0118-01,Dedham Corporate Center
+FB-0118-02,Dedham Corporate Center
+FB-0125,Islington
+FB-0125-01,Islington
+FB-0125-02,Islington
+FB-0143,Norwood Depot
+FB-0143-01,Norwood Depot
+FB-0143-02,Norwood Depot
+FB-0148,Norwood Central
+FB-0148-01,Norwood Central
+FB-0148-02,Norwood Central
+FB-0166-S,Windsor Gardens
+FB-0177-S,Plimptonville
+FB-0191-B,Walpole - North Parking Lot
+FB-0191-S,Walpole
+FB-0230-B,Norfolk - East Parking Lot
+FB-0230-S,Norfolk
+FB-0275-B0,Franklin - E Central St @ Cottage St
+FB-0275-B1,Franklin - Parking Lot
+FB-0275-S,Franklin
+FB-0303-B,Forge Park/495 - South Parking Lot
+FB-0303-S,Forge Park/495
+FR-0034,Porter
+FR-0034-01,Porter
+FR-0034-02,Porter
+FR-0064,Belmont
+FR-0064-01,Belmont
+FR-0064-02,Belmont
+FR-0064-B0,Belmont
+FR-0064-B1,Belmont
+FR-0074,Waverley
+FR-0074-01,Waverley
+FR-0074-02,Waverley
+FR-0074-B,Waverly
+FR-0098,Waltham
+FR-0098-01,Waltham
+FR-0098-B0,Waltham
+FR-0098-B1,Waltham
+FR-0098-S,Waltham
+FR-0115,Brandeis/Roberts
+FR-0115-01,Brandeis/Roberts
+FR-0115-02,Brandeis/Roberts
+FR-0115-B0,Brandeis/Roberts
+FR-0115-B1,Brandeis/Roberts
+FR-0132,Kendal Green
+FR-0132-01,Kendal Green
+FR-0132-02,Kendal Green
+FR-0137,Hastings
+FR-0137-01,Hastings
+FR-0137-02,Hastings
+FR-0147,Silver Hill
+FR-0147-01,Silver Hill
+FR-0147-02,Silver Hill
+FR-0167,Lincoln
+FR-0167-01,Lincoln
+FR-0167-02,Lincoln
+FR-0167-B,Lincoln
+FR-0201,Concord
+FR-0201-01,Concord
+FR-0201-02,Concord
+FR-0201-B0,Concord
+FR-0201-B1,Concord
+FR-0219,West Concord
+FR-0219-01,West Concord
+FR-0219-02,West Concord
+FR-0219-B,West Concord
+FR-0253,South Acton
+FR-0253-01,South Acton
+FR-0253-02,South Acton
+FR-0253-B,South Acton
+FR-0301,Littleton/Route 495
+FR-0301-01,Littleton/Route 495
+FR-0301-02,Littleton/Route 495
+FR-0301-B,Littleton/Route 495
+FR-0361,Ayer
+FR-0361-01,Ayer
+FR-0361-02,Ayer
+FR-0361-B0,Ayer
+FR-0361-B1,Ayer
+FR-0394,Shirley
+FR-0394-01,Shirley
+FR-0394-02,Shirley
+FR-0394-B0,Shirley - Front St @ Phoenix St
+FR-0394-B1,Shirley - Front St @ Phoenix St
+FR-0451,North Leominster
+FR-0451-01,North Leominster
+FR-0451-02,North Leominster
+FR-0451-B,North Leominster - Busway
+FR-0494-B,Fitchburg - Intermodal Transportation Center
+FR-0494-CS,Fitchburg
+FR-3338-B,Wachusett - Parking Lot
+FR-3338-CS,Wachusett
+FRS-0054-S,Freetown
+FRS-0109-S,Fall River Depot
+FS-0049-S,Foxboro
+Forest Hills-01,Forest Hills
+Forest Hills-02,Forest Hills
+GB-0198,Montserrat
+GB-0198-01,Montserrat
+GB-0198-02,Montserrat
+GB-0198-B2,Montserrat - Essex St @ Parramatta Rd
+GB-0198-B3,Montserrat - Essex St opp Parramatta Rd
+GB-0222,Prides Crossing
+GB-0222-01,Prides Crossing
+GB-0222-02,Prides Crossing
+GB-0229,Beverly Farms
+GB-0229-01,Beverly Farms
+GB-0229-02,Beverly Farms
+GB-0229-B0,Beverly Farms - West St opp Oak St
+GB-0229-B1,Beverly Farms - West St @ Oak St
+GB-0254,Manchester
+GB-0254-01,Manchester
+GB-0254-02,Manchester
+GB-0254-B2,Manchester - 11 Summer St
+GB-0296,West Gloucester
+GB-0296-01,West Gloucester
+GB-0296-02,West Gloucester
+GB-0296-B0,West Gloucester - Essex Ave @ Lynwood Ave
+GB-0296-B1,West Gloucester - Essex Ave opp Lynwood Ave
+GB-0296-B2,West Gloucester - Parking Lot
+GB-0316-B0,Gloucester
+GB-0316-B1,Gloucester - Opp 24 Railroad Ave
+GB-0316-S,Gloucester
+GB-0353-B,Rockport
+GB-0353-S,Rockport
+GRB-0118-S,Weymouth Landing/East Braintree
+GRB-0146-S,East Weymouth
+GRB-0162-S,West Hingham
+GRB-0183-S,Nantasket Junction
+GRB-0199-S,Cohasset
+GRB-0233-B,North Scituate
+GRB-0233-S,North Scituate
+GRB-0276-B,Greenbush
+GRB-0276-S,Greenbush
+Government Center-Brattle,Government Center
+KB-0351-B1,Kingston - Parking Lot
+KB-0351-S,Kingston
+MBS-0350-S,Middleborough
+MM-0023-S,JFK/UMass
+MM-0079-S,Quincy Center
+MM-0109,Braintree
+MM-0109-CS,Braintree
+MM-0109-S,Braintree
+MM-0150-S,Holbrook/Randolph
+MM-0186,Montello
+MM-0186-CS,Montello
+MM-0186-S,Montello
+MM-0200,Brockton
+MM-0200-CS,Brockton
+MM-0200-S,Brockton
+MM-0219-S,Campello
+MM-0277-S,Bridgewater
+MM-0356-S,Lakeville
+Manchester-S,Manchester - Parking Lot
+NB-0064-B0,Roslindale Village - Belgrade Ave @ Robert St
+NB-0064-B1,Roslindale Village
+NB-0064-B2,Roslindale Village - Corinth St @ Cohasset St
+NB-0064-S,Roslindale Village
+NB-0072-B,Bellevue
+NB-0072-B0,Bellevue - Belgrade Ave @ Iona St
+NB-0072-B1,Bellevue - Belgrade Ave @ McCraw St
+NB-0072-S,Bellevue
+NB-0076-B,Highland
+NB-0076-B0,Highland - Centre St @ Corey St
+NB-0076-B1,Highland - Centre St @ Corey St
+NB-0076-S,Highland
+NB-0080-B0,West Roxbury
+NB-0080-B1,West Roxbury
+NB-0080-B2,West Roxbury - Centre St @ Lagrange St
+NB-0080-B3,West Roxbury - Centre St @ Lagrange St
+NB-0080-S,West Roxbury
+NB-0109-B0,Hersey
+NB-0109-B1,Hersey
+NB-0109-S,Hersey
+NB-0120-B0,Needham Junction
+NB-0120-B1,Needham Junction
+NB-0120-S,Needham Junction
+NB-0127-B,Needham Center
+NB-0127-B0,Needham Center - Chapel St @ Great Plain Ave
+NB-0127-B1,Needham Center - Chestnut St @ Great Plain Ave
+NB-0127-S,Needham Center
+NB-0137-B,Needham Heights
+NB-0137-B0,Needham Heights - Highland Ave @ Mark Lee Rd
+NB-0137-B1,Needham Heights - Highland Ave @ Avery Sq
+NB-0137-S,Needham Heights
+NBM-0374,East Taunton
+NBM-0374-01,East Taunton
+NBM-0374-02,East Taunton
+NBM-0523-S,Church Street
+NBM-0546-S,New Bedford
+NEC-1659-03,Wickford Junction
+NEC-1659-B,Wickford Junction - Pick-up/Drop-off
+NEC-1768-03,TF Green Airport
+NEC-1768-B,TF Green Airport - 700 Jefferson Blvd
+NEC-1851,Providence
+NEC-1851-01,Providence
+NEC-1851-02,Providence
+NEC-1851-03,Providence
+NEC-1851-05,Providence
+NEC-1851-B0,Providence - Railroad St @ Providence Station
+NEC-1851-B1,Providence - Gaspee St @ Providence Station
+NEC-1851-B2,Providence - Gaspee St opp Providence Station
+NEC-1891,Pawtucket/Central Falls
+NEC-1891-01,Pawtucket/Central Falls
+NEC-1891-02,Pawtucket/Central Falls
+NEC-1891-B,Pawtucket/Central Falls - Transit Center
+NEC-1919,South Attleboro
+NEC-1919-01,South Attleboro
+NEC-1919-02,South Attleboro
+NEC-1969,Attleboro
+NEC-1969-03,Attleboro
+NEC-1969-04,Attleboro
+NEC-1969-B,Attleboro - Transit Center
+NEC-2040,Mansfield
+NEC-2040-01,Mansfield
+NEC-2040-02,Mansfield
+NEC-2108,Sharon
+NEC-2108-01,Sharon
+NEC-2108-02,Sharon
+NEC-2139,Canton Junction
+NEC-2139-01,Canton Junction
+NEC-2139-02,Canton Junction
+NEC-2173,Route 128
+NEC-2173-01,Route 128
+NEC-2173-02,Route 128
+NEC-2192-02,Readville
+NEC-2192-03,Readville
+NEC-2203,Hyde Park
+NEC-2203-02,Hyde Park
+NEC-2203-03,Hyde Park
+NEC-2237,Forest Hills
+NEC-2237-03,Forest Hills
+NEC-2237-05,Forest Hills
+NEC-2265,Ruggles
+NEC-2265-01,Ruggles
+NEC-2265-02,Ruggles
+NEC-2265-03,Ruggles
+NEC-2276,Back Bay
+NEC-2276-01,Back Bay
+NEC-2276-02,Back Bay
+NEC-2276-03,Back Bay
+NEC-2287,South Station
+NEC-2287-01,South Station
+NEC-2287-02,South Station
+NEC-2287-03,South Station
+NEC-2287-04,South Station
+NEC-2287-05,South Station
+NEC-2287-06,South Station
+NEC-2287-07,South Station
+NEC-2287-08,South Station
+NEC-2287-09,South Station
+NEC-2287-10,South Station
+NEC-2287-11,South Station
+NEC-2287-12,South Station
+NEC-2287-13,South Station
+NEC-2287-B,South Station - Atlantic Ave @ Summer St
+NHRML-0055,West Medford
+NHRML-0055-01,West Medford
+NHRML-0055-02,West Medford
+NHRML-0055-B0,West Medford - Playstead Rd @ Irving St
+NHRML-0055-B1,West Medford - Playstead Rd opp Madison St
+NHRML-0073,Wedgemere
+NHRML-0073-01,Wedgemere
+NHRML-0073-02,Wedgemere
+NHRML-0073-B,Wedgemere - Parking Lot
+NHRML-0078,Winchester Center
+NHRML-0078-01,Winchester Center
+NHRML-0078-02,Winchester Center
+NHRML-0116,Mishawum
+NHRML-0116-01,Mishawum
+NHRML-0116-02,Mishawum
+NHRML-0127,Anderson/Woburn
+NHRML-0127-01,Anderson/Woburn
+NHRML-0127-02,Anderson/Woburn
+NHRML-0127-B,Anderson/Woburn - Busway
+NHRML-0152,Wilmington
+NHRML-0152-01,Wilmington
+NHRML-0152-02,Wilmington
+NHRML-0152-B,Wilmington - Parking Lot
+NHRML-0218,North Billerica
+NHRML-0218-01,North Billerica
+NHRML-0218-02,North Billerica
+NHRML-0218-B0,North Billerica - Billerica Ave @ East Parking Lot
+NHRML-0218-B1,North Billerica - West Parking Lot
+NHRML-0218-B2,North Billerica - Station St @ West Parking Lot
+NHRML-0254,Lowell
+NHRML-0254-03,Lowell
+NHRML-0254-04,Lowell
+NHRML-0254-B,Lowell - Busway
+Norwood Central-S,Norwood Central
+Oak Grove-01,Oak Grove
+Oak Grove-02,Oak Grove
+PB-0158-S,South Weymouth
+PB-0194-S,Abington
+PB-0212-S,Whitman
+PB-0245-S,Hanson
+PB-0281,Halifax
+PB-0281-B0,Halifax - Parking Lot
+PB-0281-CS,Halifax
+PB-0281-S,Halifax
+PB-0356-S,Plymouth
+SB-0150-04,Canton Junction
+SB-0150-06,Canton Junction
+SB-0156-S,Canton Center
+SB-0189-S,Stoughton
+South Weymouth-S,South Weymouth
+Union Square-01,Union Square
+Union Square-02,Union Square
+WML-0012-05,Back Bay
+WML-0012-07,Back Bay
+WML-0025,Lansdowne
+WML-0025-05,Lansdowne
+WML-0025-07,Lansdowne
+WML-0035,Boston Landing
+WML-0035-01,Boston Landing
+WML-0035-02,Boston Landing
+WML-0035-B,Boston Landing
+WML-0081-02,Newtonville
+WML-0091-02,West Newton
+WML-0102-02,Auburndale
+WML-0125,Wellesley Farms
+WML-0125-01,Wellesley Farms
+WML-0125-02,Wellesley Farms
+WML-0135,Wellesley Hills
+WML-0135-01,Wellesley Hills
+WML-0135-02,Wellesley Hills
+WML-0147,Wellesley Square
+WML-0147-01,Wellesley Square
+WML-0147-02,Wellesley Square
+WML-0177,Natick Center
+WML-0177-01,Natick Center
+WML-0177-02,Natick Center
+WML-0199,West Natick
+WML-0199-01,West Natick
+WML-0199-02,West Natick
+WML-0214,Framingham
+WML-0214-01,Framingham
+WML-0214-02,Framingham
+WML-0252,Ashland
+WML-0252-01,Ashland
+WML-0252-02,Ashland
+WML-0252-B,Ashland - South Parking Lot
+WML-0274,Southborough
+WML-0274-01,Southborough
+WML-0274-02,Southborough
+WML-0340,Westborough
+WML-0340-01,Westborough
+WML-0340-02,Westborough
+WML-0364,Grafton
+WML-0364-01,Grafton
+WML-0364-02,Grafton
+WML-0442-CS,Worcester
+WR-0045-S,Malden Center
+WR-0053-S,Oak Grove
+WR-0062,Wyoming Hill
+WR-0062-01,Wyoming Hill
+WR-0062-02,Wyoming Hill
+WR-0062-B0,Wyoming Hill - Pleasant St @ W Wyoming Ave
+WR-0062-B1,Wyoming Hill - W Wyoming Ave @ Wyoming Hill Station
+WR-0062-B2,Wyoming Hill - Main St @ E Wyoming Ave
+WR-0062-B3,Wyoming Hill - Main St @ W Wyoming Ave
+WR-0067,Melrose/Cedar Park
+WR-0067-01,Melrose/Cedar Park
+WR-0067-02,Melrose/Cedar Park
+WR-0067-B0,Melrose/Cedar Park - Essex St @ W Emerson St
+WR-0067-B1,Melrose/Cedar Park - Tremont St @ W Emerson St
+WR-0075,Melrose Highlands
+WR-0075-01,Melrose Highlands
+WR-0075-02,Melrose Highlands
+WR-0075-B0,Melrose Highlands - Franklin St @ Belmont St
+WR-0075-B1,Melrose Highlands - Franklin St opp Marvin Rd
+WR-0075-B2,Melrose Highlands - Nason Dr @ Belmont St
+WR-0085,Greenwood
+WR-0085-01,Greenwood
+WR-0085-02,Greenwood
+WR-0085-B0,Greenwood - Main St @ Walton Pl
+WR-0085-B1,Greenwood - Main St @ Forest St
+WR-0099,Wakefield
+WR-0099-01,Wakefield
+WR-0099-02,Wakefield
+WR-0099-B0,Wakefield - North Ave @ Chestnut St
+WR-0099-B1,Wakefield - North Ave @ Chestnut St
+WR-0120-B,Reading - Lincoln St @ Prescott St
+WR-0120-S,Reading
+WR-0163-B0,North Wilmington - 379 Middlesex Ave
+WR-0163-B1,North Wilmington - Opp 279 Middlesex Ave
+WR-0163-S,North Wilmington
+WR-0205-02,Ballardvale
+WR-0205-B0,Ballardvale - Andover St opp Tewksbury St
+WR-0205-B1,Ballardvale - Andover St @ Tewksbury St
+WR-0205-B2,Ballardvale - Parking Lot
+WR-0228-02,Andover
+WR-0228-B0,Andover - Railroad St opp Amici Way
+WR-0228-B1,Andover - Railroad St @ Amici Way
+WR-0264-01,Lawrence
+WR-0264-02,Lawrence
+WR-0264-B2,Lawrence - Busway
+WR-0325,Bradford
+WR-0325-01,Bradford
+WR-0325-02,Bradford
+WR-0325-B,Bradford - Parking Lot
+WR-0329,Haverhill
+WR-0329-01,Haverhill
+WR-0329-02,Haverhill
+WR-0329-B,Haverhill - Parking Lot
+Windsor Gardens-S,Windsor Gardens
+door-NBM-0374-elevator,East Taunton - Parking
+door-NBM-0374-ramp,East Taunton - Parking (Ramp)
+door-NEC-1891-barton,"Pawtucket/Central Falls - Barton St, Pick-up/Drop-off"
+door-NEC-1891-pinebus,"Pawtucket/Central Falls - Buses, Pine St"
+door-NEC-1891-pinedrop,"Pawtucket/Central Falls - Pine St, Pick-up/Drop-off"
+door-WML-0081-harvard,Newtonville - Harvard St
+door-WML-0081-walnut,Newtonville - Walnut St
+door-WML-0091-ebwas,West Newton - Washington St (East)
+door-WML-0091-wbwas,West Newton - Washington St (West)
+door-WML-0102-auburn,Auburndale - Auburn St
+door-WML-0102-woodland,Auburndale - Woodland Rd
+door-alfcl-alewife,Alewife - Alewife Path East
+door-alfcl-alewifes,Alewife - Alewife Path South
+door-alfcl-cambridgepark,"Alewife - Cambridgepark Dr, Alewife Brook Pkwy"
+door-alfcl-pathbusway,"Alewife - Buses, Alewife Path"
+door-alfcl-russell,Alewife - Russell Field
+door-alfcl-steel,"Alewife - Steel Place, Alewife Brook Reserve"
+door-amory-ebamory,Amory Street - Amory St
+door-amory-ebbuick,"Amory Street - Buick St, Saint Paul St"
+door-amory-wbamory,Amory Street - Amory St
+door-amory-wbbuick,"Amory Street - Buick St, Saint Paul St"
+door-andrw-busway,Andrew - Buses
+door-andrw-dotave,"Andrew - Street, Buses"
+door-andrw-elevator,Andrew - Elevator
+door-andrw-exitonly,Andrew - Southampton St
+door-aport-bremen,Airport - Bremen St
+door-aport-buses,"Airport - Buses, Airport"
+door-aqucl-atlantic,Aquarium - Waterfront and New England Aquarium
+door-aqucl-atlanticelev,Aquarium - Waterfront and New England Aquarium
+door-aqucl-mcknorth,Aquarium - State St (North)
+door-aqucl-mcksouth,Aquarium - State St (South)
+door-armnl-arlte,Arlington - Arlington St (East)
+door-armnl-arltw,Arlington - Arlington St (West)
+door-armnl-elevator,"Arlington - Elevator, Boylston St"
+door-armnl-garden,Arlington - Public Garden 
+door-asmnl-beale,Ashmont - Beale St
+door-asmnl-matpn,Ashmont - Mattapan Line (Lobby)
+door-asmnl-peabody,Ashmont - Peabody Square
+door-asmnl-radford,Ashmont - Radford Lane
+door-asmnl-rdexits,Ashmont - Buses
+door-astao-foley,Assembly - Foley St
+door-astao-revol,Assembly - Revolution Dr
+door-babck-ebagganis,"Babcock Street - Harry Agganis Way, Pleasant St"
+door-babck-ebbabcock,Babcock Street - Babcock St
+door-babck-wbagganis,"Babcock Street - Harry Agganis Way, Pleasant St"
+door-babck-wbbabcock,Babcock Street - Babcock St
+door-balsq-boston,Ball Square - Boston Ave
+door-balsq-broadway,Ball Square - Broadway
+door-bbsta-buswayn,"Back Bay - Clarendon St, Buses (North)"
+door-bbsta-busways,"Back Bay - Clarendon St, Buses (South)"
+door-bbsta-clarcolum,"Back Bay - Clarendon St, Columbus Ave"
+door-bbsta-clarendon1,Back Bay - Clarendon St (Tracks 1 and 3)
+door-bbsta-clarendon2,Back Bay - Clarendon St (Track 2)
+door-bbsta-dartmn,Back Bay - Dartmouth St (North)
+door-bbsta-dartms,Back Bay - Dartmouth St (South)
+door-bbsta-dartmw,Back Bay - Dartmouth St (Tracks 5 and 7)
+door-bbsta-garage,Back Bay - Garage
+door-bbsta-underpass,Back Bay - Underpass to Copley Place
+door-bcnfd-bcnfield,Beaconsfield - Beaconsfield Rd
+door-bcnfd-clark,Beaconsfield - Clark Rd
+door-bcnfd-dean,"Beaconsfield - Dean Rd, Beacon St"
+door-bcnfd-lot,Beaconsfield - Parking Lot
+door-belsq-arlington,Bellingham Square - Arlington Street
+door-belsq-sixth,Bellingham Square - Sixth Street
+door-belsq-washington,Bellingham Square - Washington Avenue
+door-bmmnl-main,Beachmont - Winthrop Ave
+door-bomnl-main,Bowdoin - Cambridge St
+door-boyls-inbound,"Boylston - Boston Common, Street"
+door-boyls-outbound,"Boylston - Boston Common, Street"
+door-brdwy-main,Broadway - Broadway
+door-brdwy-traveler,Broadway - Traveler St
+door-brkhl-bhs,Brookline Hills - Tappan St (West)
+door-brkhl-cypress,Brookline Hills - Tappan St (East)
+door-brntn-busway,"Braintree - Garage, Buses, Ivory St"
+door-brntn-faregates,"Braintree - Garage, Buses, Union St"
+door-butlr-bearse,"Butler - Bearse Ave, Butler St"
+door-butlr-branchfield,"Butler - Branchfield St, Butler St"
+door-bvmnl-boylston,"Brookline Village - Buses, Route 9"
+door-bvmnl-kent,"Brookline Village - Station St, Kent St"
+door-bvmnl-place,Brookline Village - 10 Brookline Place West
+door-bvmnl-washington,"Brookline Village - Station St, Washington St"
+door-capst-ashmont,Capen Street - Capen St (East)
+door-capst-mattapan,Capen Street - Capen St (West)
+door-ccmnl-main,"Community College - Community College, Rutherford Ave"
+door-cedgr-fellsway,Cedar Grove - Fellsway St
+door-cedgr-hillsdale,Cedar Grove - Hillsdale St
+door-cenav-ashmont,Central Avenue - Central Ave (South)
+door-cenav-mattapan,"Central Avenue - Central Ave (North), Neponset Trail"
+door-chels-crnorthever,"Chelsea - Everett Ave, Silver Line - SL3"
+door-chels-crnorththird,Chelsea - Third St
+door-chels-croutthird,Chelsea - Third St
+door-chels-mall,"Chelsea - Buses 112, 114"
+door-chels-sldropoff,Chelsea - Everett Ave
+door-chels-slsstat,Chelsea - Everett Ave
+door-chhil-bc,"Chestnut Hill - Shopping Center, Boston College"
+door-chhil-museum,"Chestnut Hill - Brimmer and May, Longyear Museum"
+door-chhil-parke,Chestnut Hill - Parking Lot Access (East)
+door-chhil-parkw,Chestnut Hill - Parking Lot Access (West)
+door-chmnl-main,"Charles/MGH - Beacon Hill, Esplanade, Hospitals"
+door-chncl-fhelevator,"Chinatown - Washington St, Essex St"
+door-chncl-foresthills,"Chinatown - Washington St, Essex St"
+door-chncl-ogelevator,Chinatown - Elevator (Oak Grove)
+door-chncl-ogessex,"Chinatown - Washington St, Essex St"
+door-cntsq-essex,Central - Essex St
+door-cntsq-ibmass,Central - Mass Ave
+door-cntsq-obmass,Central - Mass Ave
+door-cntsq-pearl,Central - Pearl St
+door-cntsq-prospect,Central - Prospect St
+door-cntsq-western,Central - Western Ave
+door-coecl-bpl,Copley - Boylston St
+door-coecl-church,"Copley - Dartmouth St, Old South Church"
+door-coecl-east,Copley - Dartmouth St (East)
+door-crtst-north,"Courthouse - Fan Pier Blvd, Seaport Blvd"
+door-crtst-south,"Courthouse - Thomson Pl, Seaport Blvd"
+door-davis-busway,"Davis - College Ave, Tufts University, Buses"
+door-davis-holland,"Davis - Holland St, Buses"
+door-dwnxg-101arch,"Downtown Crossing - 101 Arch St, Summer St"
+door-dwnxg-chauncy,Downtown Crossing - Chauncy St
+door-dwnxg-franklin,Downtown Crossing - Franklin St
+door-dwnxg-hawley,Downtown Crossing - Hawley St (Escalator)
+door-dwnxg-macys,Downtown Crossing - Macy's
+door-dwnxg-rochebros,Downtown Crossing - Roche Bros
+door-dwnxg-summer,"Downtown Crossing - Washington St, Summer St"
+door-dwnxg-summereast,"Downtown Crossing - Summer St, Washington St"
+door-dwnxg-temple,"Downtown Crossing - Temple Place, Lafaytette Place"
+door-dwnxg-winter,"Downtown Crossing - Washington St, Winter St"
+door-eliot-boyle,Eliot - Boylston St Eastbound
+door-eliot-boylwr,Eliot - Boylston St Westbound (Ramp)
+door-eliot-boylws,Eliot - Boylston St Westbound (Stairs)
+door-eliot-lincoln,"Eliot - Lincoln St, Parking"
+door-eliot-meredith,Eliot - Meredith Ave
+door-esomr-washington,East Somerville - Washington St
+door-fenwy-longwood,"Fenway - Fenway Park, Park Dr, Longwood"
+door-fenwy-parkdr,Fenway - Park Dr (Stairs)
+door-fldcr-busway,"Fields Corner - Busway, Street"
+door-fldcr-charles,Fields Corner - Charles St
+door-forhl-arborway,"Forest Hills - Arborway, Arnold Arboretum, South St, Washington St (Jamaica Plain)"
+door-forhl-lowern,"Forest Hills - Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (North)"
+door-forhl-lowers,"Forest Hills - Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (South)"
+door-forhl-south,"Forest Hills - Arborway, Southwest Corridor Park"
+door-forhl-upper,Forest Hills - Washington St (Roslindale)
+door-gilmn-medford,Gilman Square - Medford St
+door-gilmn-school,Gilman Square - School St
+door-gover-main,Government Center - City Hall Plaza
+door-grnst-main,"Green Street - Woolsey Sq, Green St, Amory St"
+door-haecl-busway,"Haymarket - RMV, Sudbury St, New Chardon St"
+door-haecl-congress,"Haymarket - RMV, City Hall, Faneuil Hall Marketplace"
+door-harsq-brattle,Harvard - Brattle Square
+door-harsq-church,"Harvard - Church St, Harvard Square"
+door-harsq-square,Harvard - Harvard Square
+door-harsq-yard,"Harvard - Church St, Harvard Yard"
+door-hymnl-mass,"Hynes Convention Center - Massachusetts Ave, Buses"
+door-hymnl-newbury,Hynes Convention Center - Newbury St
+door-jaksn-main,"Jackson Square - Centre St, Busway, Park"
+door-jfk-busway,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Ramp)"
+door-jfk-columbia,JFK/UMass - Columbia Rd
+door-jfk-oldcolony,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Stairs)"
+door-jfk-sydneyn,JFK/UMass - Sydney St (North)
+door-jfk-sydneys,JFK/UMass - Sydney St (South)
+door-kencl-beacon,"Kenmore - Boston University, Beacon St"
+door-kencl-busway,"Kenmore - Busway, Commonwealth Ave"
+door-kencl-commonwealth,"Kenmore - Fenway Park, Commonwealth Ave"
+door-knncl-nbmain,"Kendall/MIT - Main St, Buses"
+door-knncl-nbsecond,"Kendall/MIT - Main St, Third St"
+door-knncl-sbcarleton,Kendall/MIT - Carleton St
+door-knncl-sbelevator,"Kendall/MIT - Elevator, Buses, Main St, Third St, Carleton St"
+door-knncl-sbmain,"Kendall/MIT - Buses, Main St, Third St"
+door-knncl-sbsecond,"Kendall/MIT - Main St, Third St"
+door-lech-busway,Lechmere - Busway
+door-lech-first,Lechmere - North First St
+door-lech-firstracks,"Lechmere - Busway, North First St"
+door-lech-obrien,Lechmere - O'Brien Hwy
+door-longw-colchester,"Longwood - Chapel St, Colchester St"
+door-longw-longwood,"Longwood - Chapel St, Longwood Ave"
+door-longw-neckramp,Longwood - Emerald Necklace (Ramp)
+door-longw-neckstairs,Longwood - Emerald Necklace (Stairs)
+door-masta-camden,Massachusetts Avenue - Camden St
+door-masta-corridor,Massachusetts Avenue - Massachusetts Ave (Northside)
+door-masta-main,Massachusetts Avenue - Massachusetts Ave (Southside)
+door-masta-side,Massachusetts Avenue - Southwest Corridor Park
+door-matt-neponset,"Mattapan - Neponset Trail, Parking"
+door-matt-northbus,Mattapan - Upper Busway
+door-matt-southbus,Mattapan - Lower Busway
+door-matt-square,Mattapan - Mattapan Square
+door-mdftf-boston,"Medford/Tufts - Boston Ave, College Ave"
+door-mgngl-lowell,Magoun Square - Lowell St
+door-miltt-trail,Milton - Neponset Trail
+door-miltt-wharf,"Milton - Parking, Wharf St"
+door-mlmnl-commercial,"Malden Center - Commercial St, Malden Government Center"
+door-mlmnl-pleasant,"Malden Center - Summer St, Pleasant St"
+door-mlmnl-ramp,"Malden Center - Commercial St, Malden Government Center (ramp)"
+door-mvbcl-lewis,Maverick - Lewis Mall
+door-mvbcl-square,"Maverick - Sumner St, Maverick Square"
+door-newtn-hyde,Newton Highlands - Hyde St
+door-newtn-lake,"Newton Highlands - Lake Ave, Walnut St"
+door-newtn-walnut,"Newton Highlands - Walnut St, Station Ave, Buses"
+door-newto-braeland,"Newton Centre - Braeland Ave, Langley Rd"
+door-newto-herrick,"Newton Centre - Union St, Herrick Rd"
+door-newto-langley,Newton Centre - Langley Rd
+door-newto-uniones,Newton Centre - Union St (East stairs)
+door-newto-unionr,Newton Centre - Union St (Ramp)
+door-newto-unionws,Newton Centre - Union St (West stairs)
+door-north-causewaye,North Station - Causeway St (Elevator)
+door-north-causewayexite,North Station - Causeway St
+door-north-causewayexitw,North Station - Causeway St
+door-north-causeways,"North Station - Causeway St, Haverhill St"
+door-north-crcanal,"North Station - Causeway St, Canal St"
+door-north-crcauseway,North Station - Causeway St (East)
+door-north-crcausewayw,North Station - Causeway St (West)
+door-north-crnashua,North Station - Nashua St
+door-north-tdgarden,North Station - TD Garden passageway (Elevator)
+door-north-valenti,North Station - Valenti Way
+door-north-valentiexite,North Station - Valenti Way
+door-north-valentiexitw,North Station - Valenti Way
+door-nqncy-hancock,North Quincy - Hancock St
+door-nqncy-newport,North Quincy - Newport Ave Extension
+door-nqncy-squantum,North Quincy - West Squantum St
+door-ogmnl-banks,Oak Grove - Banks Place
+door-ogmnl-wash,Oak Grove - Washington St
+door-ogmnl-washel,Oak Grove - Washington St (Elevator)
+door-orhte-benning,Orient Heights - Bennington St
+door-orhte-saratoga,"Orient Heights - Saratoga St, Barnes Ave"
+door-pktrm-elevatoreb,Park Street - Tremont St to Lobby (Elevator 804)
+door-pktrm-elevatorwb,"Park Street - Elevator, Tremont St"
+door-pktrm-exitalewife,Park Street - Escalator to Tremont St (North)
+door-pktrm-exitashbrain,Park Street - Escalator to Tremont St (South)
+door-pktrm-tremonte,"Park Street - Tremont St, Boston Common"
+door-pktrm-tremontw,"Park Street - Boston Common, Tremont St"
+door-pktrm-tremstair,Park Street - Tremont St
+door-pktrm-west,Park Street - Boston Common
+door-pktrm-winter,"Park Street - Tremont St, Winter St"
+door-portr-cracross,"Porter - Massachusetts Ave (West), Buses"
+door-portr-crtransfer,"Porter - Massachusetts Ave (East), Buses"
+door-portr-elevator982,"Porter - Somerville Ave, Massachusetts Ave (Elevator)"
+door-portr-elevator985,Porter - Somerville Ave (Elevator)
+door-portr-escal,"Porter - Somerville Ave, Massachusetts Ave"
+door-prmnl-huntington,Prudential - Huntington Ave
+door-prmnl-prudential,Prudential - Prudential Center
+door-qamnl-burgin,Quincy Adams - Burgin Parkway
+door-qamnl-centre,Quincy Adams - Centre Street
+door-qamnl-indep,Quincy Adams - Independence Avenue
+door-qamnl-pickup,Quincy Adams - Pick-up/Drop-off
+door-qnctr-burgin,Quincy Center - Burgin Parkway (Stairs)
+door-qnctr-burginramp,Quincy Center - Burgin Parkway (Ramp)
+door-qnctr-busway,Quincy Center - Hancock St
+door-rbmnl-beach,Revere Beach - Beach St
+door-rbmnl-main,"Revere Beach - Ocean Ave, Shirley Ave"
+door-rbmnl-ocean,Revere Beach - 300 Ocean Ave
+door-rbmnl-shirley,Revere Beach - Shirley Ave
+door-rcmnl-tremont,Roxbury Crossing - Tremont St
+door-river-estairs,"Riverside - Grove Street, Parking"
+door-river-ramp,"Riverside - Buses, Parking (Ramp)"
+door-river-wstairs,"Riverside - Buses, Parking (Stairs)"
+door-rsmnl-eramp,"Reservoir - Chestnut Hill Ave, Cleveland Circle (Ramp)"
+door-rsmnl-estairs,"Reservoir - Chestnut Hill Ave, Buses (Park St & North)"
+door-rsmnl-wramp,Reservoir - Cleveland Circle (Ramp)
+door-rsmnl-wstairs,"Reservoir - Chestnut Hill Ave, Buses (Riverside)"
+door-rugg-buses,"Ruggles - Columbus Ave, Buses"
+door-rugg-columbus,"Ruggles - Columbus Ave, Tremont St"
+door-rugg-forsyth,"Ruggles - Northeastern, Forsyth St"
+door-rugg-ruggles,Ruggles - Ruggles St
+door-rugg-track2,Ruggles - Columbus Ave (Commuter Rail - Track 2)
+door-rugg-upper,Ruggles - Upper Busway
+door-sbmnl-main,Stony Brook - Amory St
+door-sdmnl-benning,Suffolk Downs - Bennington St
+door-sdmnl-walley,Suffolk Downs - Walley St
+door-shmnl-savin,Savin Hill - Savin Hill Ave
+door-shmnl-sydney,Savin Hill - South Sydney St
+door-smmnl-clemen,"Shawmut - Clementine Park, Centre St"
+door-spmnl-nashua,"Science Park/West End - Nashua St, Spaulding Rehab Hospital (Stairs)"
+door-spmnl-nashuael,"Science Park/West End - Nashua St, Spaulding Rehab Hospital (Elevator)"
+door-spmnl-obrien,"Science Park/West End - Monsignor O'Brien Hwy, Museum of Science (Stairs)"
+door-spmnl-obrienel,"Science Park/West End - Monsignor O'Brien Hwy, Museum of Science (Elevator)"
+door-sstat-atlantic,South Station - Atlantic Ave
+door-sstat-bus,South Station - South Station Bus Terminal
+door-sstat-dewey,"South Station - Dewey Sq (Summer St, Atlantic Ave)"
+door-sstat-finctr,South Station - Financial Center
+door-sstat-main,"South Station - Main Entry, Dewey Square"
+door-sstat-outmain,"South Station - Summer St, Atlantic Ave, Commuter Rail"
+door-sstat-reserve,"South Station - Atlantic Ave, Summer St"
+door-sstat-summer,South Station - Summer St
+door-sstat-usps,South Station - USPS Post Office
+door-state-cityhall,State - City Hall
+door-state-congress,State - Congress St (North)
+door-state-exchange,State - Congress St (Exchange Place)
+door-state-meeting,"State - Washington St, Milk St"
+door-state-state,"State - Old State House, State St"
+door-state-water,"State - Devonshire St, Water St"
+door-sull-main,"Sullivan Square - Buses, Parking, Street"
+door-symcl-ebchurch,"Symphony - Massachusetts Ave, First Church of Christ"
+door-symcl-ebsymphony,"Symphony - Massachusetts Ave, Symphony Hall"
+door-symcl-falmouth,"Symphony - First Church, Falmouth St"
+door-symcl-hunte,"Symphony - Massachusetts Ave, Huntington Ave (East)"
+door-symcl-huntw,"Symphony - Massachusetts Ave, Huntington Ave (West)"
+door-symcl-westland,"Symphony - Westland Ave, Symphony Hall"
+door-tumnl-tremont,"Tufts Medical Center - Tremont St, YMCA Wang"
+door-tumnl-washington,"Tufts Medical Center - Washington St, Tufts Medical Center"
+door-unsqu-allen,Union Square - Allen St
+door-unsqu-elevator,"Union Square - Prospect St, Webster Ave"
+door-unsqu-somerville,Union Square - Prospect St
+door-valrd-eliot,Valley Road - Eliot St
+door-waban-beacon,Waban - Beacon St (Stairs)
+door-waban-parkr,Waban - Parking (Ramp)
+door-waban-parks,Waban - Parking (Stairs)
+door-waban-wyman,Waban - Wyman St
+door-welln-busway,"Wellington - Buses, Parking Lot"
+door-welln-garage,"Wellington - Station Landing, Garage"
+door-wimnl-benning,Wood Island - Bennington St
+door-wimnl-lovell,Wood Island - Lovell St
+door-wlsta-beale,"Wollaston - Beale Street, drop-off/pick-up"
+door-wlsta-newpnorth,Wollaston - Newport Ave (Stairs)
+door-wlsta-newpsouth,Wollaston - Newport Ave (Ramp)
+door-wlsta-parking,"Wollaston - Parking, drop-off/pick-up"
+door-wondl-nshore,Wonderland - 1300 North Shore Rd
+door-wondl-ocean,Wonderland - Ocean Ave
+door-wondl-oceann,Wonderland - Ocean Ave North
+door-wondl-oceannele,Wonderland - Ocean Ave North Elevator
+door-wondl-revere,Wonderland - Revere Beach
+door-woodl-east,Woodland - East
+door-woodl-main,Woodland - Main
+door-wtcst-congress,World Trade Center - Congress St
+door-wtcst-wtc,World Trade Center - World Trade Center Ave
+node-105-crplatform,Oak Grove
+node-105-lobby,Oak Grove
+node-112-platform,Downtown Crossing
+node-113-platform,Downtown Crossing
+node-123-platform,Andrew
+node-124-platform,Andrew
+node-125-entrance,Bowdoin
+node-125-lobby,Bowdoin
+node-127-busway,Forest Hills
+node-127-lobby,Forest Hills
+node-128-busway,Forest Hills
+node-128-lobby,Forest Hills
+node-129-lobby,Forest Hills
+node-129-platform,Forest Hills
+node-130-lobby,Forest Hills
+node-130-platform,Forest Hills
+node-135-busway,Ruggles
+node-135-lobby,Ruggles
+node-136-lobby,Ruggles
+node-136-platform,Ruggles
+node-137-lobby,Ruggles
+node-137-platform,Ruggles
+node-138-bottom,Ruggles
+node-138-top,Ruggles
+node-140-lobby,Back Bay
+node-140-platform,Back Bay
+node-141-lobby,Back Bay
+node-141-platform,Back Bay
+node-142-lobby,Back Bay
+node-142-platform,Back Bay
+node-143-lobby,Back Bay
+node-143-platform,Back Bay
+node-144-lobby,Back Bay
+node-144-platform,Back Bay
+node-145-lobby,Tufts Medical Center
+node-146-lobby,Tufts Medical Center
+node-146-platform,Tufts Medical Center
+node-147-lobby,Tufts Medical Center
+node-147-platform,Tufts Medical Center
+node-148-lobby,Tufts Medical Center
+node-148-platform,Tufts Medical Center
+node-149-lobby,Tufts Medical Center
+node-149-platform,Tufts Medical Center
+node-150-lobby,Prudential
+node-150-street,Prudential
+node-151-lobby,Prudential
+node-151-street,Prudential
+node-152-lobby,Prudential
+node-152-platform,Prudential
+node-301-platform,Andrew
+node-302-bottom,North Station
+node-302-top,North Station
+node-303-bottom,North Station
+node-303-top,North Station
+node-304-bottom,North Station
+node-304-top,North Station
+node-307-lobby,Sullivan Square
+node-307-platform,Sullivan Square
+node-308-lobby,Sullivan Square
+node-308-platform,Sullivan Square
+node-309-lobby,Wellington
+node-309-platform,Wellington
+node-310-lobby,Wellington
+node-310-platform,Wellington
+node-311-lobby,Malden Center
+node-311-platform,Malden Center
+node-312-lobby,Malden Center
+node-312-platform,Malden Center
+node-313-lobby,Haymarket
+node-315-platform,Hynes Convention Center
+node-315-top,Hynes Convention Center
+node-320-lobby,Park Street
+node-322-lobby,JFK/UMass
+node-322-platform,JFK/UMass
+node-325-lobby,North Quincy
+node-325-platform,North Quincy
+node-326-lobby,North Quincy
+node-326-platform,North Quincy
+node-327-lobby,North Quincy
+node-327-street,North Quincy
+node-330-entrance,Quincy Center
+node-330-platform,Quincy Center
+node-331-ol,Downtown Crossing
+node-331-rl,Downtown Crossing
+node-332-ol,Downtown Crossing
+node-332-rl,Downtown Crossing
+node-333-bottom,Braintree
+node-333-top,Braintree
+node-334-lobby,Braintree
+node-334-platform,Braintree
+node-335-lobby,Braintree
+node-335-platform,Braintree
+node-336-entrance,Davis
+node-336-middle,Davis
+node-337-entrance,Davis
+node-337-middle,Davis
+node-338-lobby,Davis
+node-338-middle,Davis
+node-339-lobby,Davis
+node-339-middle,Davis
+node-340-lobby,Davis
+node-340-platform,Davis
+node-341-lobby,Davis
+node-341-platform,Davis
+node-342-entrance,Davis
+node-342-lobby,Davis
+node-343-entrance,Davis
+node-343-lobby,Davis
+node-344-bottom,Quincy Adams
+node-344-top,Quincy Adams
+node-345-bottom,Quincy Adams
+node-345-top,Quincy Adams
+node-346-bottom,Quincy Adams
+node-346-top,Quincy Adams
+node-347-bottom,Quincy Adams
+node-347-top,Quincy Adams
+node-348-bottom,Quincy Adams
+node-348-top,Quincy Adams
+node-349-bottom,Alewife
+node-349-top,Alewife
+node-350-bottom,Alewife
+node-350-top,Alewife
+node-351-bottom,Alewife
+node-351-top,Alewife
+node-352-bottom,Alewife
+node-352-top,Alewife
+node-353-bottom,Alewife
+node-353-top,Alewife
+node-354-bottom,Alewife
+node-354-top,Alewife
+node-355-bottom,Alewife
+node-355-top,Alewife
+node-356-bottom,Alewife
+node-356-top,Alewife
+node-357-bottom,Alewife
+node-357-top,Alewife
+node-364-lobby,Downtown Crossing
+node-365-middle,Downtown Crossing
+node-366-landing,Chinatown
+node-366-lobby,Chinatown
+node-367-lobby,Broadway
+node-367-platform,Broadway
+node-372-lobby,Broadway
+node-373-platform,Park Street
+node-374-lobby,State
+node-374-nbplatform,State
+node-375-platform,Park Street
+node-377-landing,Chinatown
+node-377-lobby,Chinatown
+node-378-lobby,Beachmont
+node-378-platform,Beachmont
+node-379-lobby,Beachmont
+node-379-platform,Beachmont
+node-380-bridge,Wood Island
+node-380-platform,Wood Island
+node-382-lobby,South Station
+node-382-rl,South Station
+node-383-lobby,North Quincy
+node-383-street,North Quincy
+node-384-bottom,North Station
+node-384-top,North Station
+node-385-bottom,North Station
+node-385-top,North Station
+node-386-lobby,South Station
+node-387-lobby,South Station
+node-388-lobby,South Station
+node-388-sl,South Station
+node-389-lobby,South Station
+node-389-rl,South Station
+node-390-rl,South Station
+node-390-sl,South Station
+node-391-bottom,North Station
+node-391-top,North Station
+node-392-bottom,North Station
+node-392-top,North Station
+node-393-bottom,North Station
+node-393-top,North Station
+node-394-lobby,Aquarium
+node-394-platform,Aquarium
+node-395-lobby,Aquarium
+node-395-platform,Aquarium
+node-396-landing,Aquarium
+node-396-lobby,Aquarium
+node-397-landing,Aquarium
+node-397-street,Aquarium
+node-398-rl,South Station
+node-398-sl,South Station
+node-399-lobby,South Station
+node-399-middle,South Station
+node-400-middle,South Station
+node-400-rl,South Station
+node-401-landing,World Trade Center
+node-401-top,World Trade Center
+node-402-landing,World Trade Center
+node-402-lobby,World Trade Center
+node-403-lobby,World Trade Center
+node-403-platform,World Trade Center
+node-404-lobby,World Trade Center
+node-404-platform,World Trade Center
+node-405-lobby,Aquarium
+node-405-street,Aquarium
+node-406-lobby,Aquarium
+node-406-street,Aquarium
+node-407-bridge,Airport
+node-407-platform,Airport
+node-408-bridge,Airport
+node-408-platform,Airport
+node-409-bridge,Airport
+node-409-platform,Airport
+node-410-bridge,Airport
+node-410-platform,Airport
+node-411-lobby,South Station
+node-411-sl,South Station
+node-412-landing,Courthouse
+node-412-lobby,Courthouse
+node-413-entrance,Courthouse
+node-413-landing,Courthouse
+node-414-lobby,Courthouse
+node-414-platform,Courthouse
+node-415-lobby,Courthouse
+node-415-platform,Courthouse
+node-416-lobby,Courthouse
+node-416-platform,Courthouse
+node-417-lobby,Courthouse
+node-417-platform,Courthouse
+node-418-entrance,Courthouse
+node-418-lobby,Courthouse
+node-419-lobby,South Station
+node-419-middle,South Station
+node-420-middle,South Station
+node-420-rl,South Station
+node-423-lobby,Savin Hill
+node-423-platform,Savin Hill
+node-424-lobby,South Station
+node-425-lobby,Charles/MGH
+node-425-platform,Charles/MGH
+node-426-lobby,Charles/MGH
+node-426-platform,Charles/MGH
+node-427-lobby,Fields Corner
+node-427-platform,Fields Corner
+node-428-entrance,Maverick
+node-428-lobby,Maverick
+node-429-entrance,Maverick
+node-429-lobby,Maverick
+node-430-landing,Kenmore
+node-431-lobby,Kenmore
+node-431-platform,Kenmore
+node-432-lobby,Kenmore
+node-432-platform,Kenmore
+node-433-entrance,Maverick
+node-433-lobby,Maverick
+node-434-entrance,Maverick
+node-434-lobby,Maverick
+node-435-lobby,Arlington
+node-435-platform,Arlington
+node-436-lobby,Arlington
+node-436-platform,Arlington
+node-437-lobby,Ashmont
+node-437-platform,Ashmont
+node-438-lobby,Ashmont
+node-438-platform,Ashmont
+node-440-bridge,Orient Heights
+node-440-platform,Orient Heights
+node-441-bridge,Orient Heights
+node-441-platform,Orient Heights
+node-444-lobby,Government Center
+node-444-platform,Government Center
+node-445-lobby,Government Center
+node-445-platform,Government Center
+node-446-bl,Government Center
+node-446-gl,Government Center
+node-447-bottom,North Station
+node-447-top,North Station
+node-448-bridge,Wollaston
+node-448-lobby,Wollaston
+node-449-bridge,Wollaston
+node-449-platform,Wollaston
+node-450-entrance,Kendall/MIT
+node-450-platform,Kendall/MIT
+node-451-lobby,Oak Grove
+node-451-street,Oak Grove
+node-452-lobby,Oak Grove
+node-452-street,Oak Grove
+node-453-lobby,Oak Grove
+node-453-platform,Oak Grove
+node-501-nbplatform,State
+node-501-sbplatform,State
+node-502-landing,State
+node-502-sbplatform,State
+node-503-lobby,Prudential
+node-504-lobby,Porter
+node-504-street,Porter
+node-505-lobby,Porter
+node-505-street,Porter
+node-506-nbplatform,Porter
+node-506-sbplatform,Porter
+node-507-nbplatform,Porter
+node-507-sbplatform,Porter
+node-509-lobby,Porter
+node-509-sbplatform,Porter
+node-510-lobby,Porter
+node-510-sbplatform,Porter
+node-511-lobby,Porter
+node-511-sbplatform,Porter
+node-512-landing,Harvard
+node-513-landing,Harvard
+node-514-landing,Harvard
+node-514-lobby,Harvard
+node-515-landing,Harvard
+node-515-lobby,Harvard
+node-516-lobby,Harvard
+node-516-platform,Harvard
+node-523-sbplatform,State
+node-523-street,State
+node-6-landing,State
+node-6-nbplatform,State
+node-6476-ground,South Station
+node-6476-lobby,South Station
+node-701-bridge,Wonderland
+node-701-lobby,Wonderland
+node-701-plaza,Wonderland
+node-702-bridge,Wonderland
+node-702-lobby,Wonderland
+node-702-plaza,Wonderland
+node-703-bridge,Wonderland
+node-703-lobby,Wonderland
+node-703-plaza,Wonderland
+node-708-lobby,Wonderland
+node-709-plaza,Wonderland
+node-709-street,Wonderland
+node-710-platform,Wonderland
+node-710-plaza,Wonderland
+node-711-plaza,Wonderland
+node-712-bridge,Orient Heights
+node-712-platform,Orient Heights
+node-713-bridge,Orient Heights
+node-713-street,Orient Heights
+node-714-bridge,Orient Heights
+node-714-platform,Orient Heights
+node-715-bridge,Orient Heights
+node-715-street,Orient Heights
+node-720-lobby,Government Center
+node-720-platform,Government Center
+node-721-lobby,Government Center
+node-721-platform,Government Center
+node-722-bl,Government Center
+node-722-gl,Government Center
+node-723-bl,Government Center
+node-723-gl,Government Center
+node-724-lobby,Forest Hills
+node-724-platform,Forest Hills
+node-728-lobby,Ruggles
+node-728-street,Ruggles
+node-731-bottom,North Station
+node-731-top,North Station
+node-732-bottom,North Station
+node-732-top,North Station
+node-733-bridge,Wollaston
+node-733-lobby,Wollaston
+node-734-lobby,Wollaston
+node-734-platform,Wollaston
+node-735-bridge,Wollaston
+node-735-platform,Wollaston
+node-736-bottom,Quincy Adams
+node-736-top,Quincy Adams
+node-743-lobby,Oak Grove
+node-743-platform,Oak Grove
+node-744-lobby,Oak Grove
+node-745-lobby,Oak Grove
+node-745-street,Oak Grove
+node-746-lobby,Oak Grove
+node-746-platform,Oak Grove
+node-756-entrance,Kendall/MIT
+node-756-platform,Kendall/MIT
+node-757-entrance,Kendall/MIT
+node-757-platform,Kendall/MIT
+node-762-bottom,Lechmere
+node-762-top,Lechmere
+node-763-bottom,Lechmere
+node-763-top,Lechmere
+node-764-bottom,Lechmere
+node-764-top,Lechmere
+node-765-bottom,Gilman Square
+node-765-top,Gilman Square
+node-766-bottom,Gilman Square
+node-766-top,Gilman Square
+node-767-bottom,Magoun Square
+node-767-top,Magoun Square
+node-768-bottom,Magoun Square
+node-768-top,Magoun Square
+node-769-bottom,Ball Square
+node-769-top,Ball Square
+node-770-bottom,Medford/Tufts
+node-770-top,Medford/Tufts
+node-771-bottom,Union Square
+node-771-top,Union Square
+node-772-bottom,Medford/Tufts
+node-772-top,Medford/Tufts
+node-778-bridge,East Taunton
+node-778-parking,East Taunton
+node-779-bridge,East Taunton
+node-779-platform,East Taunton
+node-800-crplatform,Oak Grove
+node-800-lobby,Oak Grove
+node-800-street,Oak Grove
+node-801-lobby,Oak Grove
+node-801-platform,Oak Grove
+node-802-nbplatform,State
+node-802-sbplatform,State
+node-803-sbplatform,State
+node-803-street,State
+node-804-lobby,Park Street
+node-805-bottom,Quincy Adams
+node-805-top,Quincy Adams
+node-806-fifth,Quincy Adams
+node-806-fourth,Quincy Adams
+node-806-ground,Quincy Adams
+node-806-second,Quincy Adams
+node-806-sixth,Quincy Adams
+node-806-third,Quincy Adams
+node-807-fifth,Quincy Adams
+node-807-fourth,Quincy Adams
+node-807-ground,Quincy Adams
+node-807-second,Quincy Adams
+node-807-sixth,Quincy Adams
+node-807-third,Quincy Adams
+node-808-gl,Park Street
+node-808-rl,Park Street
+node-810-entrance,Quincy Center
+node-810-platform,Quincy Center
+node-811-lobby,Braintree
+node-811-platform,Braintree
+node-812-platform,Park Street
+node-812-under,Park Street
+node-813-bottom,Alewife
+node-813-top,Alewife
+node-814-concourse,Alewife
+node-814-fifth,Alewife
+node-814-fourth,Alewife
+node-814-ground,Alewife
+node-814-second,Alewife
+node-814-third,Alewife
+node-815-concourse,Alewife
+node-815-fifth,Alewife
+node-815-fourth,Alewife
+node-815-ground,Alewife
+node-815-second,Alewife
+node-815-third,Alewife
+node-816-lobby,Davis
+node-816-platform,Davis
+node-817-entrance,Davis
+node-817-lobby,Davis
+node-821-lobby,Harvard
+node-823-platform,Park Street
+node-823-under,Park Street
+node-830-lobby,JFK/UMass
+node-830-platform,JFK/UMass
+node-831-lobby,JFK/UMass
+node-831-platform,JFK/UMass
+node-840-lobby,Sullivan Square
+node-840-platform,Sullivan Square
+node-841-lobby,Forest Hills
+node-841-platform,Forest Hills
+node-842-lobby,Forest Hills
+node-842-platform,Forest Hills
+node-843-busway,Forest Hills
+node-843-lobby,Forest Hills
+node-848-busway,Ruggles
+node-848-lobby,Ruggles
+node-849-lobby,Ruggles
+node-849-platform,Ruggles
+node-850-lobby,Ruggles
+node-850-platform,Ruggles
+node-851-bottom,Ruggles
+node-851-top,Ruggles
+node-853-lobby,Back Bay
+node-853-platform,Back Bay
+node-854-lobby,Back Bay
+node-854-platform,Back Bay
+node-855-lobby,Back Bay
+node-855-platform,Back Bay
+node-856-lobby,Back Bay
+node-856-platform,Back Bay
+node-857-lobby,Tufts Medical Center
+node-858-lobby,Tufts Medical Center
+node-858-platform,Tufts Medical Center
+node-859-lobby,Tufts Medical Center
+node-859-platform,Tufts Medical Center
+node-864-lobby,Wellington
+node-864-platform,Wellington
+node-865-lobby,Wellington
+node-865-platform,Wellington
+node-866-entrance,Kendall/MIT
+node-866-platform,Kendall/MIT
+node-867-lobby,Broadway
+node-867-platform,Broadway
+node-868-lobby,Broadway
+node-869-lobby,Downtown Crossing
+node-869-platform,Downtown Crossing
+node-870-lobby,Downtown Crossing
+node-870-platform,Downtown Crossing
+node-872-lobby,Andrew
+node-876-lobby,Chinatown
+node-879-lobby,Andrew
+node-879-platform,Andrew
+node-880-lobby,Andrew
+node-880-platform,Andrew
+node-881-lobby,Sullivan Square
+node-881-platform,Sullivan Square
+node-884-lobby,Revere Beach
+node-884-platform,Revere Beach
+node-885-lobby,Revere Beach
+node-885-platform,Revere Beach
+node-886-lobby,Beachmont
+node-886-platform,Beachmont
+node-887-lobby,Beachmont
+node-887-platform,Beachmont
+node-889-paidbridge,Wood Island
+node-889-paidplatform,Wood Island
+node-889-unpaidbridge,Wood Island
+node-889-unpaidstreet,Wood Island
+node-890-paidbridge,Wood Island
+node-890-paidplatform,Wood Island
+node-890-unpaidbridge,Wood Island
+node-890-unpaidstreet,Wood Island
+node-891-lobby,Downtown Crossing
+node-892-lobby,Downtown Crossing
+node-896-entrance,Quincy Center
+node-896-platform,Quincy Center
+node-897-lobby,North Quincy
+node-897-street,North Quincy
+node-898-lobby,North Quincy
+node-898-street,North Quincy
+node-899-lobby,North Quincy
+node-899-platform,North Quincy
+node-900-lobby,North Quincy
+node-900-platform,North Quincy
+node-901-lobby,South Station
+node-901-rl,South Station
+node-901-sl,South Station
+node-903-lobby,Haymarket
+node-903-passage,Haymarket
+node-903-platform,Haymarket
+node-904-lobby,Haymarket
+node-904-platform,Haymarket
+node-905-passage,Haymarket
+node-905-platform,Haymarket
+node-906-green,Haymarket
+node-906-passage,Haymarket
+node-907-passage,Haymarket
+node-907-platform,Haymarket
+node-908-lobby,Haymarket
+node-909-bottom,North Station
+node-909-top,North Station
+node-910-bottom,North Station
+node-910-top,North Station
+node-911-bottom,North Station
+node-911-top,North Station
+node-912-bottom,North Station
+node-912-top,North Station
+node-913-lobby,Aquarium
+node-913-platform,Aquarium
+node-914-lobby,Aquarium
+node-914-platform,Aquarium
+node-915-lobby,Aquarium
+node-917-lobby,Prudential
+node-917-street,Prudential
+node-918-lobby,South Station
+node-918-rl,South Station
+node-918-sl,South Station
+node-919-rl,South Station
+node-919-sl,South Station
+node-920-lobby,Prudential
+node-920-platform,Prudential
+node-921-lobby,Prudential
+node-921-platform,Prudential
+node-922-lobby,Chinatown
+node-923-lobby,Aquarium
+node-923-platform,Aquarium
+node-924-lobby,Aquarium
+node-924-platform,Aquarium
+node-925-lobby,Aquarium
+node-926-lobby,South Station
+node-927-rl,South Station
+node-927-sl,South Station
+node-931-bridge,Airport
+node-931-platform,Airport
+node-932-bridge,Airport
+node-932-platform,Airport
+node-934-lobby,World Trade Center
+node-935-lobby,World Trade Center
+node-935-platform,World Trade Center
+node-936-lobby,World Trade Center
+node-936-platform,World Trade Center
+node-937-lobby,Courthouse
+node-937-platform,Courthouse
+node-938-lobby,Courthouse
+node-938-platform,Courthouse
+node-939-entrance,Courthouse
+node-939-lobby,Courthouse
+node-940-entrance,Courthouse
+node-940-lobby,Courthouse
+node-944-lobby,Malden Center
+node-944-platform,Malden Center
+node-945-lobby,Malden Center
+node-945-platform,Malden Center
+node-946-lobby,Savin Hill
+node-946-platform,Savin Hill
+node-947-lobby,Savin Hill
+node-948-lobby,Kenmore
+node-949-lobby,South Station
+node-951-lobby,Charles/MGH
+node-951-platform,Charles/MGH
+node-952-lobby,Charles/MGH
+node-952-platform,Charles/MGH
+node-955-bridge,Airport
+node-955-lobby,Airport
+node-956-bridge,Airport
+node-956-lobby,Airport
+node-957-lobby,Fields Corner
+node-957-platform,Fields Corner
+node-958-lobby,Fields Corner
+node-958-platform,Fields Corner
+node-961-bottom,Alewife
+node-961-top,Alewife
+node-962-lobby,Arlington
+node-962-platform,Arlington
+node-963-lobby,Arlington
+node-963-platform,Arlington
+node-964-lobby,Arlington
+node-965-entrance,Maverick
+node-965-lobby,Maverick
+node-966-entrance,Maverick
+node-966-lobby,Maverick
+node-967-nbplatform,State
+node-967-sbplatform,State
+node-968-lobby,Ashmont
+node-968-platform,Ashmont
+node-969-lobby,Ashmont
+node-969-platform,Ashmont
+node-970-lobby,Ashmont
+node-970-platform,Ashmont
+node-971-lobby,Kenmore
+node-971-platform,Kenmore
+node-972-paidlobby,Kenmore
+node-972-platform,Kenmore
+node-972-unpaidlobby,Kenmore
+node-973-upper,Harvard
+node-974-street,State
+node-974-wbplatform,State
+node-975-ebplatform,State
+node-978-lobby,Park Street
+node-979-gl,Park Street
+node-979-rl,Park Street
+node-980-lobby,Science Park/West End
+node-980-platform,Science Park/West End
+node-980-street,Science Park/West End
+node-981-lobby,Science Park/West End
+node-981-platform,Science Park/West End
+node-981-street,Science Park/West End
+node-982-lobby,Porter
+node-983-lobby,Porter
+node-983-nbplatform,Porter
+node-983-sbplatform,Porter
+node-985-lobby,Porter
+node-986-crplatform,Porter
+node-986-lobby,Porter
+node-987-lobby,Porter
+node-987-nbplatform,Porter
+node-987-sbplatform,Porter
+node-998-ol,Downtown Crossing
+node-998-rl,Downtown Crossing
+node-999-ol,Downtown Crossing
+node-999-rl,Downtown Crossing
+node-NBM-0374-entryramp-bridge,East Taunton
+node-NBM-0374-entrystair-bridge,East Taunton
+node-NBM-0374-entrystair-parking,East Taunton
+node-NBM-0374-northramp-bridge,East Taunton
+node-NBM-0374-northramp-platform,East Taunton
+node-NBM-0374-northstair-bridge,East Taunton
+node-NBM-0374-northstair-platform,East Taunton
+node-NBM-0374-southstair-bridge,East Taunton
+node-NBM-0374-southstair-platform,East Taunton
+node-WML-0081-harvardstairs-bottom,Newtonville
+node-WML-0081-walnutstairs-bottom,Newtonville
+node-WML-0091-ebwasstairs-bottom,West Newton
+node-WML-0091-wbwasstairs-bottom,West Newton
+node-WML-0102-auburnstairs-bottom,Auburndale
+node-WML-0102-woodlandstairs-bottom,Auburndale
+node-alfcl-buswaynorthstairs-bottom,Alewife
+node-alfcl-buswaynorthstairs-top,Alewife
+node-alfcl-buswayramp-bottom,Alewife
+node-alfcl-buswayramp-landing,Alewife
+node-alfcl-buswayramp-top,Alewife
+node-alfcl-buswayrampstairs-top,Alewife
+node-alfcl-buswaysouthstairs-bottom,Alewife
+node-alfcl-buswaysouthstairs-top,Alewife
+node-alfcl-cambridgesidepickstairs-top,Alewife
+node-alfcl-cambridgesideramp-bottom,Alewife
+node-alfcl-cambridgesideramp-landing,Alewife
+node-alfcl-cambridgesideramp-top,Alewife
+node-alfcl-eaststairs-bottom,Alewife
+node-alfcl-eaststairs-top,Alewife
+node-alfcl-egaragestairs-fifth,Alewife
+node-alfcl-egaragestairs-fourth,Alewife
+node-alfcl-egaragestairs-second,Alewife
+node-alfcl-egaragestairs-third,Alewife
+node-alfcl-fifth,Alewife
+node-alfcl-fourth,Alewife
+node-alfcl-groundparkingstairs-bottom,Alewife
+node-alfcl-groundparkingstairs-top,Alewife
+node-alfcl-main-farepaid,Alewife
+node-alfcl-main-fareunpaid,Alewife
+node-alfcl-mainstairs-concourse,Alewife
+node-alfcl-mainstairs-ground,Alewife
+node-alfcl-mainstairs-second,Alewife
+node-alfcl-pick,Alewife
+node-alfcl-pickstairs-bottom,Alewife
+node-alfcl-pickstairs-top,Alewife
+node-alfcl-russell-farepaid,Alewife
+node-alfcl-russell-fareunpaid,Alewife
+node-alfcl-russellstairs-bottom,Alewife
+node-alfcl-russellstairs-top,Alewife
+node-alfcl-second,Alewife
+node-alfcl-steelplramp-bottom,Alewife
+node-alfcl-steelplramp-landing,Alewife
+node-alfcl-steelplramp-top,Alewife
+node-alfcl-steelplstairs-top,Alewife
+node-alfcl-third,Alewife
+node-alfcl-weststairs-bottom,Alewife
+node-alfcl-weststairs-top,Alewife
+node-alfcl-wgaragestairs-concourse,Alewife
+node-alfcl-wgaragestairs-fifth,Alewife
+node-alfcl-wgaragestairs-fourth,Alewife
+node-alfcl-wgaragestairs-ground,Alewife
+node-alfcl-wgaragestairs-second,Alewife
+node-alfcl-wgaragestairs-third,Alewife
+node-andrw-dotstairs-lobby,Andrew
+node-andrw-farepaid,Andrew
+node-andrw-fareunpaid,Andrew
+node-andrw-ibramp-top,Andrew
+node-andrw-nbusstairs-lobby,Andrew
+node-andrw-nibstairs-lobby,Andrew
+node-andrw-nibstairs-platform,Andrew
+node-andrw-nlobbycenter,Andrew
+node-andrw-nobstairs-lobby,Andrew
+node-andrw-nobstairs-platform,Andrew
+node-andrw-obelstairs-lobby,Andrew
+node-andrw-sbusstairs-lobby,Andrew
+node-andrw-sibingress,Andrew
+node-andrw-sibstairs-platform,Andrew
+node-andrw-slobbycenter,Andrew
+node-andrw-sobstairs-lobby,Andrew
+node-andrw-sobstairs-platform,Andrew
+node-aport-bremen-farepaid,Airport
+node-aport-bremen-fareunpaid,Airport
+node-aport-bremenstairs-bridge,Airport
+node-aport-bremenstairs-lobby,Airport
+node-aport-buses-farepaid,Airport
+node-aport-buses-fareunpaid,Airport
+node-aport-buswaystairs-bridge,Airport
+node-aport-buswaystairs-lobby,Airport
+node-aport-ebpaidstairs-bridge,Airport
+node-aport-ebpaidstairs-platform,Airport
+node-aport-wbpaidstairs-bridge,Airport
+node-aport-wbpaidstairs-platform,Airport
+node-aqucl-atlanticstairs-lobby,Aquarium
+node-aqucl-atlanticstairs-street,Aquarium
+node-aqucl-atlfarepaid,Aquarium
+node-aqucl-atlfareunpaid,Aquarium
+node-aqucl-ebatlanticstairs-lobby,Aquarium
+node-aqucl-ebatlanticstairs-platform,Aquarium
+node-aqucl-ebstatestairs-lobby,Aquarium
+node-aqucl-ebstatestairs-platform,Aquarium
+node-aqucl-nstatestairs-landing,Aquarium
+node-aqucl-nstatestairs-landingtop,Aquarium
+node-aqucl-nstatestairs-lobby,Aquarium
+node-aqucl-nstatestairs-street,Aquarium
+node-aqucl-sstatestairs-lobby,Aquarium
+node-aqucl-statefarepaid,Aquarium
+node-aqucl-statefareunpaid,Aquarium
+node-aqucl-wbatlanticstairs-lobby,Aquarium
+node-aqucl-wbatlanticstairs-platform,Aquarium
+node-aqucl-wbstatestairs-lobby,Aquarium
+node-aqucl-wbstatestairs-platform,Aquarium
+node-armnl-ebstairs-lobby,Arlington
+node-armnl-ebstairs-platform,Arlington
+node-armnl-eescstairs-escalator,Arlington
+node-armnl-eescstairs-lobby,Arlington
+node-armnl-farepaid,Arlington
+node-armnl-fareunpaid,Arlington
+node-armnl-nstairs-lobby,Arlington
+node-armnl-nwstairs-lobby,Arlington
+node-armnl-sestairs-lobby,Arlington
+node-armnl-swstairs-lobby,Arlington
+node-armnl-wbstairs-lobby,Arlington
+node-armnl-wbstairs-platform,Arlington
+node-armnl-wescstairs-escalator,Arlington
+node-armnl-wescstairs-lobby,Arlington
+node-asmnl-bealeramp,Ashmont
+node-asmnl-mtpfarepaid,Ashmont
+node-asmnl-mtpfareunpaid,Ashmont
+node-asmnl-mtpnbstair-lobby,Ashmont
+node-asmnl-mtpnbstair-platform,Ashmont
+node-asmnl-peafarepaid,Ashmont
+node-asmnl-peafareunpaid,Ashmont
+node-asmnl-peanbstair-lobby,Ashmont
+node-asmnl-peanbstair-platform,Ashmont
+node-asmnl-peasbstair-lobby,Ashmont
+node-asmnl-peasbstair-platform,Ashmont
+node-asmnl-radfarepaid,Ashmont
+node-asmnl-radfareunpaid,Ashmont
+node-asmnl-radfordramp,Ashmont
+node-asmnl-rdexstair-lobby,Ashmont
+node-asmnl-rdexstair-platform,Ashmont
+node-astao-442-ground,Assembly
+node-astao-442-lobby,Assembly
+node-astao-443-lobby,Assembly
+node-astao-443-platform,Assembly
+node-astao-716-ground,Assembly
+node-astao-716-lobby,Assembly
+node-astao-717-lobby,Assembly
+node-astao-717-platform,Assembly
+node-astao-718-ground,Assembly
+node-astao-718-lobby,Assembly
+node-astao-719-lobby,Assembly
+node-astao-719-platform,Assembly
+node-astao-fol-farepaid,Assembly
+node-astao-fol-fareunpaid,Assembly
+node-astao-foldoorstair-ground,Assembly
+node-astao-foldoorstair-lobby,Assembly
+node-astao-folplatstair-lobby,Assembly
+node-astao-folplatstair-platform,Assembly
+node-astao-rev-farepaid,Assembly
+node-astao-rev-fareunpaid,Assembly
+node-astao-revdoorstair-ground,Assembly
+node-astao-revdoorstair-lobby,Assembly
+node-astao-revplatstair-lobby,Assembly
+node-astao-revplatstair-platform,Assembly
+node-balsq-ramp-bottom,Ball Square
+node-balsq-ramp-top,Ball Square
+node-balsq-stairs-bottom,Ball Square
+node-balsq-stairs-top,Ball Square
+node-bbsta-13clarexit-bottom,Back Bay
+node-bbsta-13clarexit-farepaid,Back Bay
+node-bbsta-13clarexit-fareunpaid,Back Bay
+node-bbsta-13stairs-lobby,Back Bay
+node-bbsta-13stairs-platform,Back Bay
+node-bbsta-2clarexit-bottom,Back Bay
+node-bbsta-2clarexit-farepaid,Back Bay
+node-bbsta-2clarexit-fareunpaid,Back Bay
+node-bbsta-2stairs-lobby,Back Bay
+node-bbsta-2stairs-platform,Back Bay
+node-bbsta-clar-farepaid,Back Bay
+node-bbsta-clar-fareunpaid,Back Bay
+node-bbsta-dartexit-farepaid,Back Bay
+node-bbsta-dartexit-fareunpaid,Back Bay
+node-bbsta-dartexit-platform,Back Bay
+node-bbsta-e57stairs-lobby,Back Bay
+node-bbsta-e57stairs-platform,Back Bay
+node-bbsta-lower-farepaid,Back Bay
+node-bbsta-lower-fareunpaid,Back Bay
+node-bbsta-olclarexit-bottom,Back Bay
+node-bbsta-olestairs-lobby,Back Bay
+node-bbsta-olestairs-platform,Back Bay
+node-bbsta-olwstairs-lobby,Back Bay
+node-bbsta-olwstairs-platform,Back Bay
+node-bbsta-upassestairs-bottom,Back Bay
+node-bbsta-upassestairs-top,Back Bay
+node-bbsta-upassmezstairs-top,Back Bay
+node-bbsta-upasswstairs-bottom,Back Bay
+node-bbsta-upper-farepaid,Back Bay
+node-bbsta-upper-fareunpaid,Back Bay
+node-bbsta-w57stairs-lobby,Back Bay
+node-bbsta-w57stairs-platform,Back Bay
+node-bcnfd-stairs-platform,Beaconsfield
+node-belsq-crosswalk-chelsea,Bellingham Square
+node-belsq-crosswalk-southsta,Bellingham Square
+node-belsq-ramp-platform,Bellingham Square
+node-bmmnl-378stair-lobby,Beachmont
+node-bmmnl-378stair-platform,Beachmont
+node-bmmnl-379stair-lobby,Beachmont
+node-bmmnl-379stair-platform,Beachmont
+node-bmmnl-farepaid,Beachmont
+node-bmmnl-fareunpaid,Beachmont
+node-bomnl-entstair,Bowdoin
+node-bomnl-farepaid,Bowdoin
+node-bomnl-fareunpaid,Bowdoin
+node-bomnl-lobstair-entrance,Bowdoin
+node-bomnl-lobstair-lobby,Bowdoin
+node-bomnl-pstair-lobby,Bowdoin
+node-bomnl-pstair-platform,Bowdoin
+node-bomnl-ramp-lobby,Bowdoin
+node-bomnl-ramp-platform,Bowdoin
+node-boyls-in-farepaid,Boylston
+node-boyls-in-fareunpaid,Boylston
+node-boyls-instair-platform,Boylston
+node-boyls-out-farepaid,Boylston
+node-boyls-out-fareunpaid,Boylston
+node-boyls-outstair-platform,Boylston
+node-brdwy-farepaid,Broadway
+node-brdwy-fareunpaid,Broadway
+node-brdwy-mainstairs-lobby,Broadway
+node-brdwy-platstairs-lobby,Broadway
+node-brdwy-platstairs-platform,Broadway
+node-brdwy-travelerstairs-lobby,Broadway
+node-brkhl-eastramp-top,Brookline Hills
+node-brntn-crramp-bottom,Braintree
+node-brntn-crramp-top,Braintree
+node-brntn-crstairs-bottom,Braintree
+node-brntn-crstairs-top,Braintree
+node-brntn-farepaid,Braintree
+node-brntn-fareunpaid,Braintree
+node-brntn-nplatstairs-lobby,Braintree
+node-brntn-nplatstairs-platform,Braintree
+node-brntn-parking,Braintree
+node-brntn-splatstairs-lobby,Braintree
+node-brntn-splatstairs-platform,Braintree
+node-butlr-ramp-platform,Butler
+node-bvmnl-stairs-platform,Brookline Village
+node-ccmnl-305-lobby,Community College
+node-ccmnl-305-platform,Community College
+node-ccmnl-933-lobby,Community College
+node-ccmnl-933-platform,Community College
+node-ccmnl-farepaid,Community College
+node-ccmnl-fareunpaid,Community College
+node-ccmnl-lobby,Community College
+node-ccmnl-stairs-lobby,Community College
+node-ccmnl-stairs-platform,Community College
+node-chels-everettnorth-bottom,Chelsea
+node-chels-everettnorth-top,Chelsea
+node-chels-everettout-bottom,Chelsea
+node-chels-everettout-top,Chelsea
+node-chels-thirdnorth-bottom,Chelsea
+node-chels-thirdnorth-top,Chelsea
+node-chels-thirdout-bottom,Chelsea
+node-chels-thirdout-top,Chelsea
+node-chhil-parkstairs-platform,Chestnut Hill
+node-chhil-roadstairs-platform,Chestnut Hill
+node-chmnl-farepaid,Charles/MGH
+node-chmnl-fareunpaid,Charles/MGH
+node-chmnl-nbstairs-lobby,Charles/MGH
+node-chmnl-nbstairs-platform,Charles/MGH
+node-chmnl-sbstairs-lobby,Charles/MGH
+node-chmnl-sbstairs-platform,Charles/MGH
+node-chncl-fhfarepaid,Chinatown
+node-chncl-fhfareunpaid,Chinatown
+node-chncl-fhlower-landing,Chinatown
+node-chncl-fhlower-lobby,Chinatown
+node-chncl-fhupper-landing,Chinatown
+node-chncl-ogfarepaid,Chinatown
+node-chncl-ogfareunpaid,Chinatown
+node-chncl-oglower-landing,Chinatown
+node-chncl-oglower-lobby,Chinatown
+node-chncl-ogonlystair-lobby,Chinatown
+node-chncl-ogupper-landing,Chinatown
+node-cntsq-359-platform,Central
+node-cntsq-360-platform,Central
+node-cntsq-860-platform,Central
+node-cntsq-861-platform,Central
+node-cntsq-essexstair-farepaid,Central
+node-cntsq-essexstair-fareunpaid,Central
+node-cntsq-essexstair-platform,Central
+node-cntsq-ibstair-farepaid,Central
+node-cntsq-ibstair-fareunpaid,Central
+node-cntsq-ibstair-platform,Central
+node-cntsq-obstair-farepaid,Central
+node-cntsq-obstair-fareunpaid,Central
+node-cntsq-obstair-platform,Central
+node-cntsq-pearlstair-farepaid,Central
+node-cntsq-pearlstair-fareunpaid,Central
+node-cntsq-pearlstair-platform,Central
+node-cntsq-prospectstair-farepaid,Central
+node-cntsq-prospectstair-fareunpaid,Central
+node-cntsq-prospectstair-platform,Central
+node-cntsq-westernstair-farepaid,Central
+node-cntsq-westernstair-fareunpaid,Central
+node-cntsq-westernstair-platform,Central
+node-coecl-439-platform,Copley
+node-coecl-976-platform,Copley
+node-coecl-977-platform,Copley
+node-coecl-bplstair-platform,Copley
+node-coecl-churchstair-platform,Copley
+node-coecl-eaststair-platform,Copley
+node-coecl-ebfarepaid,Copley
+node-coecl-ebfareunpaid,Copley
+node-coecl-wbfarepaid,Copley
+node-coecl-wbfareunpaid,Copley
+node-crtst-northentstair-entrance,Courthouse
+node-crtst-northentstair-lobby,Courthouse
+node-crtst-southentstair-entrance,Courthouse
+node-crtst-southentstair-landing,Courthouse
+node-crtst-southlobstair-landing,Courthouse
+node-crtst-southlobstair-lobby,Courthouse
+node-crtst-ssexit-farepaid,Courthouse
+node-crtst-ssexit-fareunpaid,Courthouse
+node-crtst-ssexitstair-lobby,Courthouse
+node-crtst-ssexitstair-platform,Courthouse
+node-crtst-ssmain-farepaid,Courthouse
+node-crtst-ssmain-fareunpaid,Courthouse
+node-crtst-ssmainstair-lobby,Courthouse
+node-crtst-ssmainstair-platform,Courthouse
+node-crtst-wtcexit-farepaid,Courthouse
+node-crtst-wtcexit-fareunpaid,Courthouse
+node-crtst-wtcexitstair-lobby,Courthouse
+node-crtst-wtcexitstair-platform,Courthouse
+node-crtst-wtcmain-farepaid,Courthouse
+node-crtst-wtcmain-fareunpaid,Courthouse
+node-crtst-wtcmainstair-lobby,Courthouse
+node-crtst-wtcmainstair-platform,Courthouse
+node-davis-340stair-lobby,Davis
+node-davis-340stair-platform,Davis
+node-davis-341stair-lobby,Davis
+node-davis-341stair-platform,Davis
+node-davis-colstairlow-lobby,Davis
+node-davis-colstairlow-middle,Davis
+node-davis-colstairup-entrance,Davis
+node-davis-colstairup-middle,Davis
+node-davis-farepaid,Davis
+node-davis-fareunpaid,Davis
+node-davis-holland-entrance,Davis
+node-davis-holland-lobby,Davis
+node-dwnxg-112fare-paid,Downtown Crossing
+node-dwnxg-112fare-unpaid,Downtown Crossing
+node-dwnxg-113fare-paid,Downtown Crossing
+node-dwnxg-113fare-unpaid,Downtown Crossing
+node-dwnxg-concourse,Downtown Crossing
+node-dwnxg-frnkfare-paid,Downtown Crossing
+node-dwnxg-frnkfare-unpaid,Downtown Crossing
+node-dwnxg-macysramp-lobby,Downtown Crossing
+node-dwnxg-macysstairs-lobby,Downtown Crossing
+node-dwnxg-nbsumexitfare-paid,Downtown Crossing
+node-dwnxg-nbsumexitfare-unpaid,Downtown Crossing
+node-dwnxg-sbsumexitfare-paid,Downtown Crossing
+node-dwnxg-sbsumexitfare-unpaid,Downtown Crossing
+node-dwnxg-stair1-ol,Downtown Crossing
+node-dwnxg-stair1-rl,Downtown Crossing
+node-dwnxg-stair10-lobby,Downtown Crossing
+node-dwnxg-stair10-middle,Downtown Crossing
+node-dwnxg-stair11-lobby,Downtown Crossing
+node-dwnxg-stair11-middle,Downtown Crossing
+node-dwnxg-stair12-middle,Downtown Crossing
+node-dwnxg-stair13-lobby,Downtown Crossing
+node-dwnxg-stair14-lobby,Downtown Crossing
+node-dwnxg-stair15-lobby,Downtown Crossing
+node-dwnxg-stair16-lobby,Downtown Crossing
+node-dwnxg-stair2-ol,Downtown Crossing
+node-dwnxg-stair2-rl,Downtown Crossing
+node-dwnxg-stair3-platform,Downtown Crossing
+node-dwnxg-stair4-lobby,Downtown Crossing
+node-dwnxg-stair4-platform,Downtown Crossing
+node-dwnxg-stair5-lobby,Downtown Crossing
+node-dwnxg-stair5-platform,Downtown Crossing
+node-dwnxg-stair6-platform,Downtown Crossing
+node-dwnxg-stair7-ol,Downtown Crossing
+node-dwnxg-stair7-rl,Downtown Crossing
+node-dwnxg-stair8-ol,Downtown Crossing
+node-dwnxg-stair8-rl,Downtown Crossing
+node-dwnxg-stair9-lobby,Downtown Crossing
+node-dwnxg-sumchyfare-paid,Downtown Crossing
+node-dwnxg-sumchyfare-unpaid,Downtown Crossing
+node-dwnxg-sumwashfare-paid,Downtown Crossing
+node-dwnxg-sumwashfare-unpaid,Downtown Crossing
+node-dwnxg-templefare-paid,Downtown Crossing
+node-dwnxg-templefare-unpaid,Downtown Crossing
+node-dwnxg-wintexitfare-paid,Downtown Crossing
+node-dwnxg-wintexitfare-unpaid,Downtown Crossing
+node-dwnxg-wintwashfare-paid,Downtown Crossing
+node-dwnxg-wintwashfare-unpaid,Downtown Crossing
+node-eliot-boyle-bridge,Eliot
+node-eliot-boylwr-platform,Eliot
+node-eliot-boylws-bridge,Eliot
+node-fenwy-stairs-platform,Fenway
+node-fldcr-alewstair-lobby,Fields Corner
+node-fldcr-alewstair-platform,Fields Corner
+node-fldcr-ashstair-lobby,Fields Corner
+node-fldcr-ashstair-platform,Fields Corner
+node-fldcr-charlesramp-lobby,Fields Corner
+node-fldcr-charlesstairs-lobby,Fields Corner
+node-fldcr-farepaid,Fields Corner
+node-fldcr-fareunpaid,Fields Corner
+node-forhl-busfarepaid,Forest Hills
+node-forhl-busfareunpaid,Forest Hills
+node-forhl-crstairs-lobby,Forest Hills
+node-forhl-crstairs-platform,Forest Hills
+node-forhl-lowerdoor,Forest Hills
+node-forhl-nlowbusstairs-busway,Forest Hills
+node-forhl-nlowbusstairs-lobby,Forest Hills
+node-forhl-nplatstairs-lobby,Forest Hills
+node-forhl-nplatstairs-platform,Forest Hills
+node-forhl-slowbusstairs-busway,Forest Hills
+node-forhl-slowbusstairs-lobby,Forest Hills
+node-forhl-southfarepaid,Forest Hills
+node-forhl-southfareunpaid,Forest Hills
+node-forhl-southstairs-lobby,Forest Hills
+node-forhl-southstairs-platform,Forest Hills
+node-forhl-splatstairs-lobby,Forest Hills
+node-forhl-splatstairs-platform,Forest Hills
+node-forhl-upperdoor,Forest Hills
+node-gilmn-medstairs-bottom,Gilman Square
+node-gilmn-medstairs-top,Gilman Square
+node-gilmn-schstairs-bottom,Gilman Square
+node-gilmn-schstairs-top,Gilman Square
+node-gover-ebtransstairs-bl,Government Center
+node-gover-ebtransstairs-gl,Government Center
+node-gover-farepaid,Government Center
+node-gover-fareunpaid,Government Center
+node-gover-nentrancestairs-lobby,Government Center
+node-gover-nentrancestairs-platform,Government Center
+node-gover-sentrancestairs-lobby,Government Center
+node-gover-sentrancestairs-platform,Government Center
+node-gover-wbtransstairs-bl,Government Center
+node-gover-wbtransstairs-gl,Government Center
+node-grnst-131-lobby,Green Street
+node-grnst-131-platform,Green Street
+node-grnst-844-lobby,Green Street
+node-grnst-844-platform,Green Street
+node-grnst-farepaid,Green Street
+node-grnst-fareunpaid,Green Street
+node-grnst-stairs-lobby,Green Street
+node-grnst-stairs-platform,Green Street
+node-haecl-busfarepaid,Haymarket
+node-haecl-busfareunpaid,Haymarket
+node-haecl-busolstair-green,Haymarket
+node-haecl-busolstair-passage,Haymarket
+node-haecl-busstair-lobby,Haymarket
+node-haecl-congfarepaid,Haymarket
+node-haecl-congfareunpaid,Haymarket
+node-haecl-congfhplatn-passage,Haymarket
+node-haecl-congfhplatn-platform,Haymarket
+node-haecl-congfhplats-passage,Haymarket
+node-haecl-congfhplats-platform,Haymarket
+node-haecl-congfhstair-lobby,Haymarket
+node-haecl-congfhstair-passage,Haymarket
+node-haecl-congogplatn-passage,Haymarket
+node-haecl-congogplatn-platform,Haymarket
+node-haecl-congogplats-passage,Haymarket
+node-haecl-congogplats-platform,Haymarket
+node-haecl-congogstairn-lobby,Haymarket
+node-haecl-congogstairn-passage,Haymarket
+node-haecl-congogstairs-lobby,Haymarket
+node-haecl-congogstairs-passage,Haymarket
+node-haecl-glstair-green,Haymarket
+node-haecl-glstair-passage,Haymarket
+node-haecl-passfhstair-passage,Haymarket
+node-haecl-passfhstair-platform,Haymarket
+node-haecl-passogstair-passage,Haymarket
+node-haecl-passogstair-platform,Haymarket
+node-harsq-bratstair-upper,Harvard
+node-harsq-churstair-lobby,Harvard
+node-harsq-harfarepaid,Harvard
+node-harsq-harfareunpaid,Harvard
+node-harsq-harstair-lobby,Harvard
+node-harsq-harstair-platform,Harvard
+node-harsq-lowerramp-lobby,Harvard
+node-harsq-lowerramp-lower,Harvard
+node-harsq-lowerstair-lobby,Harvard
+node-harsq-lowerstair-lower,Harvard
+node-harsq-lowupstair-lower,Harvard
+node-harsq-lowupstair-upper,Harvard
+node-harsq-nbramp-platform,Harvard
+node-harsq-sbramp-platform,Harvard
+node-harsq-sbstair-nb,Harvard
+node-harsq-sbstair-sbn,Harvard
+node-harsq-sbstair-sbs,Harvard
+node-harsq-sqfarepaid,Harvard
+node-harsq-sqfareunpaid,Harvard
+node-harsq-sqhighstair-landing,Harvard
+node-harsq-sqlowstair-landing,Harvard
+node-harsq-sqlowstair-lobby,Harvard
+node-harsq-upperramp-lobby,Harvard
+node-harsq-upperramp-upper,Harvard
+node-harsq-yardstair-lobby,Harvard
+node-hymnl-ebstairs-lobby,Hynes Convention Center
+node-hymnl-ebstairs-platform,Hynes Convention Center
+node-hymnl-farepaid,Hynes Convention Center
+node-hymnl-fareunpaid,Hynes Convention Center
+node-hymnl-massentrance,Hynes Convention Center
+node-hymnl-newbury-farepaid,Hynes Convention Center
+node-hymnl-newbury-fareunpaid,Hynes Convention Center
+node-hymnl-newburyexit,Hynes Convention Center
+node-hymnl-wbstairs-lobby,Hynes Convention Center
+node-hymnl-wbstairs-midblobby,Hynes Convention Center
+node-hymnl-wbstairs-midtlobby,Hynes Convention Center
+node-hymnl-wbstairs-platform,Hynes Convention Center
+node-jaksn-133-lobby,Jackson Square
+node-jaksn-133-platform,Jackson Square
+node-jaksn-846-lobby,Jackson Square
+node-jaksn-846-platform,Jackson Square
+node-jaksn-farepaid,Jackson Square
+node-jaksn-fareunpaid,Jackson Square
+node-jaksn-stairs-lobby,Jackson Square
+node-jaksn-stairs-platform,Jackson Square
+node-jfk-ashcolfarepaid,JFK/UMass
+node-jfk-ashcolfareunpaid,JFK/UMass
+node-jfk-ashcolstair-lobby,JFK/UMass
+node-jfk-ashcolstair-platform,JFK/UMass
+node-jfk-ashganstair-lobby,JFK/UMass
+node-jfk-ashganstair-platform,JFK/UMass
+node-jfk-ashgasstair-lobby,JFK/UMass
+node-jfk-ashgasstair-platform,JFK/UMass
+node-jfk-ashsydstair-lobby,JFK/UMass
+node-jfk-ashsydstair-platform,JFK/UMass
+node-jfk-bracolfarepaid,JFK/UMass
+node-jfk-bracolfareunpaid,JFK/UMass
+node-jfk-bracolstair-lobby,JFK/UMass
+node-jfk-bracolstair-platform,JFK/UMass
+node-jfk-braganstair-lobby,JFK/UMass
+node-jfk-braganstair-platform,JFK/UMass
+node-jfk-bragasstair-lobby,JFK/UMass
+node-jfk-bragasstair-platform,JFK/UMass
+node-jfk-brasydstair-lobby,JFK/UMass
+node-jfk-brasydstair-platform,JFK/UMass
+node-jfk-busramp-lobby,JFK/UMass
+node-jfk-crcolstair-columbia,JFK/UMass
+node-jfk-crcolstair-street,JFK/UMass
+node-jfk-crramp-cr,JFK/UMass
+node-jfk-crramp-street,JFK/UMass
+node-jfk-mainfarepaid,JFK/UMass
+node-jfk-mainfareunpaid,JFK/UMass
+node-jfk-oldstaire-lobby,JFK/UMass
+node-jfk-oldstairw-lobby,JFK/UMass
+node-jfk-sydfarepaid,JFK/UMass
+node-jfk-sydfareunpaid,JFK/UMass
+node-jfk-sydneynstair-lobby,JFK/UMass
+node-jfk-sydneysstair-lobby,JFK/UMass
+node-kencl-beacstair-lobby,Kenmore
+node-kencl-busstair-landing,Kenmore
+node-kencl-commstair-lobby,Kenmore
+node-kencl-ebstair-lobby,Kenmore
+node-kencl-ebstair-platform,Kenmore
+node-kencl-farepaid,Kenmore
+node-kencl-fareunpaid,Kenmore
+node-kencl-fvmramp-landing,Kenmore
+node-kencl-fvmramp-lobby,Kenmore
+node-kencl-fvmstair-landing,Kenmore
+node-kencl-fvmstair-lobby,Kenmore
+node-kencl-wbstair-lobby,Kenmore
+node-kencl-wbstair-platform,Kenmore
+node-knncl-backnbstair-entrance,Kendall/MIT
+node-knncl-backnbstair-platform,Kendall/MIT
+node-knncl-frontnbstair-entrance,Kendall/MIT
+node-knncl-frontnbstair-platform,Kendall/MIT
+node-knncl-frontsbstair-entrance,Kendall/MIT
+node-knncl-frontsbstair-platform,Kendall/MIT
+node-knncl-nbmain-farepaid,Kendall/MIT
+node-knncl-nbmain-fareunpaid,Kendall/MIT
+node-knncl-nbsec-farepaid,Kendall/MIT
+node-knncl-nbsec-fareunpaid,Kendall/MIT
+node-knncl-sbcarleton-entrance,Kendall/MIT
+node-knncl-sbcarleton-platform,Kendall/MIT
+node-knncl-sbmain-entrance,Kendall/MIT
+node-knncl-sbmain-farepaid,Kendall/MIT
+node-knncl-sbmain-fareunpaid,Kendall/MIT
+node-knncl-sbmain-platform,Kendall/MIT
+node-knncl-sbsec-farepaid,Kendall/MIT
+node-knncl-sbsec-fareunpaid,Kendall/MIT
+node-lbusramp-lower,Sullivan Square
+node-lbusramp-upper,Sullivan Square
+node-lbusstairs-lower,Sullivan Square
+node-lbusstairs-upper,Sullivan Square
+node-lech-firststairs-bottom,Lechmere
+node-lech-firststairs-top,Lechmere
+node-lech-obrienstairs-bottom,Lechmere
+node-lech-obrienstairs-top,Lechmere
+node-longw-cstairs-platform,Longwood
+node-longw-eramp-landing,Longwood
+node-longw-estairs-landing,Longwood
+node-longw-pramp-landing,Longwood
+node-longw-pramp-platform,Longwood
+node-longw-pstairs-landing,Longwood
+node-longw-pstairs-platform,Longwood
+node-masta-139-lobby,Massachusetts Avenue
+node-masta-139-platform,Massachusetts Avenue
+node-masta-852-lobby,Massachusetts Avenue
+node-masta-852-platform,Massachusetts Avenue
+node-masta-camdstair-platform,Massachusetts Avenue
+node-masta-camfarepaid,Massachusetts Avenue
+node-masta-camfareunpaid,Massachusetts Avenue
+node-masta-farepaid,Massachusetts Avenue
+node-masta-fareunpaid,Massachusetts Avenue
+node-masta-mainstair-lobby,Massachusetts Avenue
+node-masta-mainstair-platform,Massachusetts Avenue
+node-masta-undernorth-lobby,Massachusetts Avenue
+node-masta-undernorth-way,Massachusetts Avenue
+node-masta-undersouth-lobby,Massachusetts Avenue
+node-masta-undersouth-way,Massachusetts Avenue
+node-masta-unpaid-lobby,Massachusetts Avenue
+node-masta-unpramp-exit,Massachusetts Avenue
+node-masta-unpramp-lobby,Massachusetts Avenue
+node-masta-unpstair-exit,Massachusetts Avenue
+node-masta-unpstair-lobby,Massachusetts Avenue
+node-mdftf-stairs-bottom,Medford/Tufts
+node-mdftf-stairs-top,Medford/Tufts
+node-mgngl-ramp-bottom,Magoun Square
+node-mgngl-ramp-top,Magoun Square
+node-mgngl-stairs-bottom,Magoun Square
+node-mgngl-stairs-top,Magoun Square
+node-mlmnl-commstair-bus,Malden Center
+node-mlmnl-commstair-lobby,Malden Center
+node-mlmnl-crstairs-lobby,Malden Center
+node-mlmnl-crstairs-platform,Malden Center
+node-mlmnl-exitfarepaid,Malden Center
+node-mlmnl-exitfareunpaid,Malden Center
+node-mlmnl-exitstair-lobby,Malden Center
+node-mlmnl-exitstair-platform,Malden Center
+node-mlmnl-farepaid,Malden Center
+node-mlmnl-fareunpaid,Malden Center
+node-mlmnl-olstairs-lobby,Malden Center
+node-mlmnl-olstairs-platform,Malden Center
+node-mlmnl-ramptop,Malden Center
+node-mvbcl-lewfarepaid,Maverick
+node-mvbcl-lewfareunpaid,Maverick
+node-mvbcl-lewstair-entrance,Maverick
+node-mvbcl-lewstair-lobby,Maverick
+node-mvbcl-msqfarepaid,Maverick
+node-mvbcl-msqfareunpaid,Maverick
+node-mvbcl-msqstair-entrance,Maverick
+node-mvbcl-msqstair-lobby,Maverick
+node-newtn-hyde-platform,Newton Highlands
+node-newtn-hyde-stairs,Newton Highlands
+node-newtn-lake-platform,Newton Highlands
+node-newtn-walnut-platform,Newton Highlands
+node-newto-braeland-platform,Newton Centre
+node-newto-herrick-landing,Newton Centre
+node-newto-langley-platform,Newton Centre
+node-newto-ramp-landing,Newton Centre
+node-newto-ramp-platform,Newton Centre
+node-newto-uniones-platform,Newton Centre
+node-newto-unionws-platform,Newton Centre
+node-north-causeway-farepaid,North Station
+node-north-causeway-fareunpaid,North Station
+node-north-causeway-lobby,North Station
+node-north-causewayexite-farepaid,North Station
+node-north-causewayexite-fareunpaid,North Station
+node-north-causewayexitw-farepaid,North Station
+node-north-causewayexitw-fareunpaid,North Station
+node-north-causewayoakgrove-stairs-bottom,North Station
+node-north-causewayoakgrove-stairs-top,North Station
+node-north-causewaystairs-bottom,North Station
+node-north-causewaystairs-top,North Station
+node-north-centerstairs-bottom,North Station
+node-north-centerstairs-top,North Station
+node-north-cr-lobby,North Station
+node-north-crgates-main-farepaid,North Station
+node-north-crgates-main-fareunpaid,North Station
+node-north-crgates-west-farepaid,North Station
+node-north-crgates-west-fareunpaid,North Station
+node-north-eastramp-bottom,North Station
+node-north-eastramp-top,North Station
+node-north-eaststairs-bottom,North Station
+node-north-eaststairs-top,North Station
+node-north-ecausewayexitstairs-bottom,North Station
+node-north-ecausewayexitstairs-top,North Station
+node-north-evalentiexitstairs-bottom,North Station
+node-north-evalentiexitstairs-top,North Station
+node-north-northstairs-bottom,North Station
+node-north-northstairs-top,North Station
+node-north-passageway-cr,North Station
+node-north-passageway-subway,North Station
+node-north-passagewaystairs-bottom,North Station
+node-north-passagewaystairs-top,North Station
+node-north-southstairs-bottom,North Station
+node-north-southstairs-top,North Station
+node-north-valenti-farepaid,North Station
+node-north-valenti-fareunpaid,North Station
+node-north-valenti-lobby,North Station
+node-north-valenti-streetstairs-bottom,North Station
+node-north-valenti-streetstairs-top,North Station
+node-north-valentiexite-farepaid,North Station
+node-north-valentiexite-fareunpaid,North Station
+node-north-valentiexitw-farepaid,North Station
+node-north-valentiexitw-fareunpaid,North Station
+node-north-valentioakgrove-stairs-bottom,North Station
+node-north-valentioakgrove-stairs-top,North Station
+node-north-wcausewayexitstairs-bottom,North Station
+node-north-wcausewayexitstairs-top,North Station
+node-north-wvalentiexitstairs-bottom,North Station
+node-north-wvalentiexitstairs-top,North Station
+node-nqncy-hstair-lobby,North Quincy
+node-nqncy-hstair-street,North Quincy
+node-nqncy-nhfarepaid,North Quincy
+node-nqncy-nhfareunpaid,North Quincy
+node-nqncy-nhpstair-lobby,North Quincy
+node-nqncy-nhpstair-platform,North Quincy
+node-nqncy-nstair-lobby,North Quincy
+node-nqncy-nstair-street,North Quincy
+node-nqncy-senterramp-bus,North Quincy
+node-nqncy-senterstair-bus,North Quincy
+node-nqncy-sfarepaid,North Quincy
+node-nqncy-sfareunpaid,North Quincy
+node-nqncy-spstair-lobby,North Quincy
+node-nqncy-spstair-platform,North Quincy
+node-ogcityhallstairs-lobby,State
+node-ogcityhallstairs-nbplatform,State
+node-ogmnl-banksstair-lobby,Oak Grove
+node-ogmnl-banksstair-street,Oak Grove
+node-ogmnl-crstair-crplatform,Oak Grove
+node-ogmnl-crstair-lobby,Oak Grove
+node-ogmnl-farepaid,Oak Grove
+node-ogmnl-fareunpaid,Oak Grove
+node-ogmnl-olstair-lobby,Oak Grove
+node-ogmnl-olstair-platform,Oak Grove
+node-ogmnl-washstair-lobby,Oak Grove
+node-ogmnl-washstair-street,Oak Grove
+node-orhte-benn-farepaid,Orient Heights
+node-orhte-benn-fareunpaid,Orient Heights
+node-orhte-ibpaidstairs-bridge,Orient Heights
+node-orhte-ibpaidstairs-platform,Orient Heights
+node-orhte-ibunpaidstairs-bridge,Orient Heights
+node-orhte-ibunpaidstairs-street,Orient Heights
+node-orhte-obpaidstairs-bridge,Orient Heights
+node-orhte-obpaidstairs-platform,Orient Heights
+node-orhte-obunpaidstairs-bridge,Orient Heights
+node-orhte-obunpaidstairs-street,Orient Heights
+node-orhte-sara-farepaid,Orient Heights
+node-orhte-sara-fareunpaid,Orient Heights
+node-pktrm-804paid,Park Street
+node-pktrm-804unpaid,Park Street
+node-pktrm-concourse,Park Street
+node-pktrm-cpebstairs-gl,Park Street
+node-pktrm-cpebstairs-rl,Park Street
+node-pktrm-cpwbstairs-gl,Park Street
+node-pktrm-cpwbstairs-rl,Park Street
+node-pktrm-ebparkstairs-lobby,Park Street
+node-pktrm-ebupassstairs-platform,Park Street
+node-pktrm-ebupassstairs-under,Park Street
+node-pktrm-midupassstairs-platform,Park Street
+node-pktrm-midupassstairs-under,Park Street
+node-pktrm-nbexitpaid,Park Street
+node-pktrm-nbexitunpaid,Park Street
+node-pktrm-nbwinterstairs-lobby,Park Street
+node-pktrm-nbwinterstairs-platform,Park Street
+node-pktrm-sbexitpaid,Park Street
+node-pktrm-sbexitunpaid,Park Street
+node-pktrm-sbwbstairs-gl,Park Street
+node-pktrm-sbwbstairs-rl,Park Street
+node-pktrm-sbwinterstairs-lobby,Park Street
+node-pktrm-sbwinterstairs-platform,Park Street
+node-pktrm-stair14-gl,Park Street
+node-pktrm-stair14-rl,Park Street
+node-pktrm-stair17-lobby,Park Street
+node-pktrm-stair4-lobby,Park Street
+node-pktrm-stair4-platform,Park Street
+node-pktrm-stair5-gl,Park Street
+node-pktrm-stair5-rl,Park Street
+node-pktrm-stair7-gl,Park Street
+node-pktrm-stair7-rl,Park Street
+node-pktrm-stair8-gl,Park Street
+node-pktrm-stair8-rl,Park Street
+node-pktrm-tremefare-paid,Park Street
+node-pktrm-tremefare-unpaid,Park Street
+node-pktrm-tremontstairs-lobby,Park Street
+node-pktrm-tremstairfare-paid,Park Street
+node-pktrm-tremstairfare-unpaid,Park Street
+node-pktrm-tremwfare-paid,Park Street
+node-pktrm-tremwfare-unpaid,Park Street
+node-pktrm-wbparkstairs-lobby,Park Street
+node-pktrm-wbupassstairs-platform,Park Street
+node-pktrm-wbupassstairs-under,Park Street
+node-pktrm-westfare-paid,Park Street
+node-pktrm-westfare-unpaid,Park Street
+node-pktrm-weststairs-lobby,Park Street
+node-pktrm-wintfare-paid,Park Street
+node-pktrm-wintfare-unpaid,Park Street
+node-portr-506stairs-nbplatform,Porter
+node-portr-506stairs-sbplatform,Porter
+node-portr-507stairs-nbplatform,Porter
+node-portr-507stairs-sbplatform,Porter
+node-portr-crramp-elevator,Porter
+node-portr-crramp-minihigh,Porter
+node-portr-crstairs-crplatform,Porter
+node-portr-crstairs-lobby,Porter
+node-portr-eaststairs-crplatform,Porter
+node-portr-farepaid,Porter
+node-portr-fareunpaid,Porter
+node-portr-lobbyrlstairs-lobby,Porter
+node-portr-lobbyrlstairs-sbplatform,Porter
+node-portr-massavestairs-crplatform,Porter
+node-portr-massavestairs-lobby,Porter
+node-portr-somervilleavestairs-lobby,Porter
+node-portr-somervilleavestairs-street,Porter
+node-portr-weststairs-crplatform,Porter
+node-portr-weststairs-street,Porter
+node-prmnl-152stair-platform,Prudential
+node-prmnl-920ramp-platform,Prudential
+node-prmnl-920stair-platform,Prudential
+node-prmnl-921ramp-platform,Prudential
+node-prmnl-921stair-platform,Prudential
+node-prmnl-ebstair-lobby,Prudential
+node-prmnl-ebstair-platform,Prudential
+node-prmnl-farepaid,Prudential
+node-prmnl-fareunpaid,Prudential
+node-prmnl-huntstair-lobby,Prudential
+node-prmnl-prustair-lobby,Prudential
+node-prmnl-prustair-street,Prudential
+node-prmnl-wbstair-lobby,Prudential
+node-prmnl-wbstair-platform,Prudential
+node-qamnl-busway-centerdoor,Quincy Adams
+node-qamnl-busway-northdoor,Quincy Adams
+node-qamnl-busway-southdoor,Quincy Adams
+node-qamnl-farepaid,Quincy Adams
+node-qamnl-fareunpaid,Quincy Adams
+node-qamnl-fifth-lobby,Quincy Adams
+node-qamnl-fourth-lobby,Quincy Adams
+node-qamnl-ngaragestairs-fifth,Quincy Adams
+node-qamnl-ngaragestairs-fourth,Quincy Adams
+node-qamnl-ngaragestairs-ground,Quincy Adams
+node-qamnl-ngaragestairs-second,Quincy Adams
+node-qamnl-ngaragestairs-sixth,Quincy Adams
+node-qamnl-ngaragestairs-third,Quincy Adams
+node-qamnl-northstairs-bottom,Quincy Adams
+node-qamnl-northstairs-top,Quincy Adams
+node-qamnl-second-lobby,Quincy Adams
+node-qamnl-sgaragestairs-fifth,Quincy Adams
+node-qamnl-sgaragestairs-fourth,Quincy Adams
+node-qamnl-sgaragestairs-ground,Quincy Adams
+node-qamnl-sgaragestairs-second,Quincy Adams
+node-qamnl-sgaragestairs-sixth,Quincy Adams
+node-qamnl-sgaragestairs-third,Quincy Adams
+node-qamnl-sixth-lobby,Quincy Adams
+node-qamnl-southstairs-bottom,Quincy Adams
+node-qamnl-southstairs-top,Quincy Adams
+node-qamnl-third-lobby,Quincy Adams
+node-qnctr-burgin-door,Quincy Center
+node-qnctr-burginramp-cr,Quincy Center
+node-qnctr-center-lobby,Quincy Center
+node-qnctr-crstair-entrance,Quincy Center
+node-qnctr-crstair-platform,Quincy Center
+node-qnctr-elevfarepaid,Quincy Center
+node-qnctr-elevfareunpaid,Quincy Center
+node-qnctr-farepaid,Quincy Center
+node-qnctr-fareunpaid,Quincy Center
+node-qnctr-rdstair-entrance,Quincy Center
+node-qnctr-rdstair-platform,Quincy Center
+node-rbmnl-884stair-lobby,Revere Beach
+node-rbmnl-884stair-platform,Revere Beach
+node-rbmnl-885stair-lobby,Revere Beach
+node-rbmnl-885stair-platform,Revere Beach
+node-rbmnl-beachfarepaid,Revere Beach
+node-rbmnl-beachfareunpaid,Revere Beach
+node-rbmnl-beachstair,Revere Beach
+node-rbmnl-farepaid,Revere Beach
+node-rbmnl-fareunpaid,Revere Beach
+node-rbmnl-oceanstair,Revere Beach
+node-rbmnl-shirleyfarepaid,Revere Beach
+node-rbmnl-shirleyfareunpaid,Revere Beach
+node-rbmnl-shirleystair,Revere Beach
+node-rcmnl-134-lobby,Roxbury Crossing
+node-rcmnl-134-platform,Roxbury Crossing
+node-rcmnl-847-lobby,Roxbury Crossing
+node-rcmnl-847-platform,Roxbury Crossing
+node-rcmnl-farepaid,Roxbury Crossing
+node-rcmnl-fareunpaid,Roxbury Crossing
+node-rcmnl-stairs-lobby,Roxbury Crossing
+node-rcmnl-stairs-platform,Roxbury Crossing
+node-river-estairs-lobby,Riverside
+node-river-farepaid,Riverside
+node-river-fareunpaid,Riverside
+node-river-ramp-lobby,Riverside
+node-river-wstairs-lobby,Riverside
+node-rsmnl-eramp-platform,Reservoir
+node-rsmnl-estairs-platform,Reservoir
+node-rsmnl-wramp-platform,Reservoir
+node-rsmnl-wstairs-platform,Reservoir
+node-rugg-bus1stairs-busway,Ruggles
+node-rugg-bus1stairs-lobby,Ruggles
+node-rugg-bus2stairs-busway,Ruggles
+node-rugg-bus2stairs-lobby,Ruggles
+node-rugg-columbusstairs-top,Ruggles
+node-rugg-crstairs-lobby,Ruggles
+node-rugg-crstairs-platform,Ruggles
+node-rugg-farepaid,Ruggles
+node-rugg-fareunpaid,Ruggles
+node-rugg-forsythstairs-bottom,Ruggles
+node-rugg-forsythstairs-top,Ruggles
+node-rugg-olexit-farepaid,Ruggles
+node-rugg-olexit-fareunpaid,Ruggles
+node-rugg-olexit-platform,Ruggles
+node-rugg-olnstairs-lobby,Ruggles
+node-rugg-olnstairs-platform,Ruggles
+node-rugg-olsstairs-lobby,Ruggles
+node-rugg-olsstairs-platform,Ruggles
+node-rugg-track2ramp-bottom,Ruggles
+node-rugg-track2ramp-top,Ruggles
+node-sbmnl-132-lobby,Stony Brook
+node-sbmnl-132-platform,Stony Brook
+node-sbmnl-845-lobby,Stony Brook
+node-sbmnl-845-platform,Stony Brook
+node-sbmnl-farepaid,Stony Brook
+node-sbmnl-fareunpaid,Stony Brook
+node-sbmnl-stairs-lobby,Stony Brook
+node-sbmnl-stairs-platform,Stony Brook
+node-sdmnl-benn-farepaid,Suffolk Downs
+node-sdmnl-benn-fareunpaid,Suffolk Downs
+node-sdmnl-benn-ramp,Suffolk Downs
+node-sdmnl-benn-stairs,Suffolk Downs
+node-sdmnl-pib-bridge,Suffolk Downs
+node-sdmnl-pib-platform,Suffolk Downs
+node-sdmnl-pibstair-bridge,Suffolk Downs
+node-sdmnl-pibstair-platform,Suffolk Downs
+node-sdmnl-pob-bridge,Suffolk Downs
+node-sdmnl-pob-platform,Suffolk Downs
+node-sdmnl-pobstair-bridge,Suffolk Downs
+node-sdmnl-pobstair-platform,Suffolk Downs
+node-sdmnl-unib-bridge,Suffolk Downs
+node-sdmnl-unib-street,Suffolk Downs
+node-sdmnl-unob-bridge,Suffolk Downs
+node-sdmnl-unob-street,Suffolk Downs
+node-sdmnl-wall-farepaid,Suffolk Downs
+node-sdmnl-wall-fareunpaid,Suffolk Downs
+node-shmnl-endstair-lobby,Savin Hill
+node-shmnl-endstair-platform,Savin Hill
+node-shmnl-platstair-lobby,Savin Hill
+node-shmnl-platstair-platform,Savin Hill
+node-shmnl-sh-farepaid,Savin Hill
+node-shmnl-sh-fareunpaid,Savin Hill
+node-shmnl-syd-farepaid,Savin Hill
+node-shmnl-syd-fareunpaid,Savin Hill
+node-shmnl-sydstair-lobby,Savin Hill
+node-smmnl-953-lobby,Shawmut
+node-smmnl-953-platform,Shawmut
+node-smmnl-954-lobby,Shawmut
+node-smmnl-954-platform,Shawmut
+node-smmnl-farepaid,Shawmut
+node-smmnl-fareunpaid,Shawmut
+node-smmnl-nbstairs-lobby,Shawmut
+node-smmnl-nbstairs-platform,Shawmut
+node-smmnl-sbstairs-lobby,Shawmut
+node-smmnl-sbstairs-platform,Shawmut
+node-spmnl-ibstairs-lobby,Science Park/West End
+node-spmnl-ibstairs-platform,Science Park/West End
+node-spmnl-mfarepaid,Science Park/West End
+node-spmnl-mfareunpaid,Science Park/West End
+node-spmnl-nashuastairs-top,Science Park/West End
+node-spmnl-nfarepaid,Science Park/West End
+node-spmnl-nfareunpaid,Science Park/West End
+node-spmnl-obrienstairs-top,Science Park/West End
+node-spmnl-obstairs-lobby,Science Park/West End
+node-spmnl-obstairs-platform,Science Park/West End
+node-spmnl-ofarepaid,Science Park/West End
+node-spmnl-ofareunpaid,Science Park/West End
+node-spmnl-sfarepaid,Science Park/West End
+node-spmnl-sfareunpaid,Science Park/West End
+node-sstat-382stair-lobby,South Station
+node-sstat-382stair-rl,South Station
+node-sstat-388stair-lobby,South Station
+node-sstat-388stair-sl,South Station
+node-sstat-389stair-lobby,South Station
+node-sstat-389stair-rl,South Station
+node-sstat-390stair-rl,South Station
+node-sstat-390stair-sl,South Station
+node-sstat-398stair-rl,South Station
+node-sstat-398stair-sl,South Station
+node-sstat-399stair-lobby,South Station
+node-sstat-399stair-middle,South Station
+node-sstat-400sl-middle,South Station
+node-sstat-400sl-sl,South Station
+node-sstat-400stair-middle,South Station
+node-sstat-400stair-rl,South Station
+node-sstat-411stair-lobby,South Station
+node-sstat-411stair-sl,South Station
+node-sstat-419stair-lobby,South Station
+node-sstat-419stair-middle,South Station
+node-sstat-420sl-middle,South Station
+node-sstat-420sl-sl,South Station
+node-sstat-420stair-middle,South Station
+node-sstat-420stair-rl,South Station
+node-sstat-918stair-lobby,South Station
+node-sstat-918stair-sl,South Station
+node-sstat-919stair-rl,South Station
+node-sstat-919stair-sl,South Station
+node-sstat-alewife-farepaid,South Station
+node-sstat-alewife-fareunpaid,South Station
+node-sstat-ashbrain-farepaid,South Station
+node-sstat-ashbrain-fareunpaid,South Station
+node-sstat-bldgescdown-ground,South Station
+node-sstat-bldgescdown-lobby,South Station
+node-sstat-bldgescup-ground,South Station
+node-sstat-bldgescup-lobby,South Station
+node-sstat-bldgstair-ground,South Station
+node-sstat-bldgstair-lobby,South Station
+node-sstat-cr-lobby,South Station
+node-sstat-deweystair-lobby,South Station
+node-sstat-finctrstair-lobby,South Station
+node-sstat-north-farepaid,South Station
+node-sstat-north-fareunpaid,South Station
+node-sstat-outmainstair-lobby,South Station
+node-sstat-reservestair-lobby,South Station
+node-sstat-south-farepaid,South Station
+node-sstat-south-fareunpaid,South Station
+node-state-bowdoinoldstatestairs-landing,State
+node-state-bowdoinoldstatestairs-wbplatform,State
+node-state-bowdoinramp-nbplatform,State
+node-state-bowdoinramp-wbplatform,State
+node-state-cityhall-farepaid,State
+node-state-cityhall-fareunpaid,State
+node-state-congress-farepaid,State
+node-state-congress-fareunpaid,State
+node-state-congressstairs-street,State
+node-state-congressstairs-wbplatform,State
+node-state-exchange-farepaid,State
+node-state-exchange-fareunpaid,State
+node-state-exchangestairs-ebplatform,State
+node-state-milk-farepaid,State
+node-state-milk-fareunpaid,State
+node-state-milkmidstairs-landing,State
+node-state-milkmidstairs-street,State
+node-state-milkststairs-lobby,State
+node-state-ogoldstatehousestairs-landing,State
+node-state-ogoldstatehousestairs-nbplatform,State
+node-state-oldstate-farepaid,State
+node-state-oldstate-fareunpaid,State
+node-state-oldstateogministairs-landing,State
+node-state-oldstateogministairs-street,State
+node-state-oldstatepassageministairs-landing,State
+node-state-oldstatepassageministairs-street,State
+node-state-olnbplatformstairsmain-nbplatform,State
+node-state-olnbplatformstairsmain-sbplatform,State
+node-state-olnbplatformstairssec-nbplatform,State
+node-state-olnbplatformstairssec-sbplatform,State
+node-state-olpassagestairs-nbplatform,State
+node-state-olpassagestairs-sbplatform,State
+node-state-passageoldstatehousestairs-landing,State
+node-state-passageoldstatehousestairs-sbplatform,State
+node-state-statestreetstairs-lobby,State
+node-state-water-farepaid,State
+node-state-water-fareunpaid,State
+node-state-waterststairs-lobby,State
+node-state-wonderlandoldstatestairs-ebplatform,State
+node-state-wonderlandoldstatestairs-landing,State
+node-sull-farepaid,Sullivan Square
+node-sull-fareunpaid,Sullivan Square
+node-sull-nbstairs-lobby,Sullivan Square
+node-sull-nbstairs-platform,Sullivan Square
+node-sull-sbstairs-lobby,Sullivan Square
+node-sull-sbstairs-platform,Sullivan Square
+node-symcl-churstair-platform,Symphony
+node-symcl-eb-farepaid,Symphony
+node-symcl-eb-fareunpaid,Symphony
+node-symcl-eb-midbottom,Symphony
+node-symcl-eb-midtop,Symphony
+node-symcl-falmstair-platform,Symphony
+node-symcl-hunestair-platform,Symphony
+node-symcl-hunwstair-platform,Symphony
+node-symcl-sympstair-platform,Symphony
+node-symcl-wb-ebottom,Symphony
+node-symcl-wb-etop,Symphony
+node-symcl-wb-farepaid,Symphony
+node-symcl-wb-fareunpaid,Symphony
+node-symcl-wb-midbottom,Symphony
+node-symcl-wb-midtop,Symphony
+node-symcl-wb-wbottom,Symphony
+node-symcl-wb-wtop,Symphony
+node-symcl-weststair-platform,Symphony
+node-tumnl-tre-farepaid,Tufts Medical Center
+node-tumnl-tre-fareunpaid,Tufts Medical Center
+node-tumnl-trenbstairs-lobby,Tufts Medical Center
+node-tumnl-trenbstairs-platform,Tufts Medical Center
+node-tumnl-tresbstairs-lobby,Tufts Medical Center
+node-tumnl-tresbstairs-platform,Tufts Medical Center
+node-tumnl-trestairs-lobby,Tufts Medical Center
+node-tumnl-wash-farepaid,Tufts Medical Center
+node-tumnl-wash-fareunpaid,Tufts Medical Center
+node-tumnl-washnbstairs-lobby,Tufts Medical Center
+node-tumnl-washnbstairs-platform,Tufts Medical Center
+node-tumnl-washsbstairs-lobby,Tufts Medical Center
+node-tumnl-washsbstairs-platform,Tufts Medical Center
+node-tumnl-washstairs-lobby,Tufts Medical Center
+node-unsqu-rollupgate,Union Square
+node-unsqu-stairs-bottom,Union Square
+node-unsqu-stairs-top,Union Square
+node-valrd-stairs-platform,Valley Road
+node-valrd-stairs-street,Valley Road
+node-waban-beacon-ramp,Waban
+node-waban-beacon-stairs,Waban
+node-waban-parkstairs-platform,Waban
+node-welln-busramp-lobby,Wellington
+node-welln-busstair-lobby,Wellington
+node-welln-farepaid,Wellington
+node-welln-fareunpaid,Wellington
+node-welln-fhstair-lobby,Wellington
+node-welln-fhstair-platform,Wellington
+node-welln-ogstair-lobby,Wellington
+node-welln-ogstair-platform,Wellington
+node-welln-skyelev-bridge,Wellington
+node-welln-skyentry,Wellington
+node-welln-skystairs-bridge,Wellington
+node-wimnl-benn-farepaid,Wood Island
+node-wimnl-benn-fareunpaid,Wood Island
+node-wimnl-ibpaidstairs-bridge,Wood Island
+node-wimnl-ibpaidstairs-platform,Wood Island
+node-wimnl-ibunpaidstairs-bridge,Wood Island
+node-wimnl-ibunpaidstairs-street,Wood Island
+node-wimnl-love-farepaid,Wood Island
+node-wimnl-love-fareunpaid,Wood Island
+node-wimnl-love-stairs,Wood Island
+node-wimnl-obpaidstairs-bridge,Wood Island
+node-wimnl-obpaidstairs-platform,Wood Island
+node-wimnl-obunpaidstairs-bridge,Wood Island
+node-wimnl-obunpaidstairs-street,Wood Island
+node-wlsta-lobbyramp-lower,Wollaston
+node-wlsta-lobbyramp-upper,Wollaston
+node-wlsta-lobbysteps-lower,Wollaston
+node-wlsta-lobbysteps-upper,Wollaston
+node-wlsta-mainnewp-farepaid,Wollaston
+node-wlsta-mainnewp-fareunpaid,Wollaston
+node-wlsta-newpramp-lobby,Wollaston
+node-wlsta-newpramp-middle,Wollaston
+node-wlsta-newprampup-middle,Wollaston
+node-wlsta-newpstairup-middle,Wollaston
+node-wlsta-park-farepaid,Wollaston
+node-wlsta-park-fareunpaid,Wollaston
+node-wlsta-stair1-bridge,Wollaston
+node-wlsta-stair1-lobby,Wollaston
+node-wlsta-stair4-lobby,Wollaston
+node-wlsta-stair4-platform,Wollaston
+node-wlsta-stair5-bridge,Wollaston
+node-wlsta-stair5-platform,Wollaston
+node-wlsta-stair6-lobby,Wollaston
+node-wlsta-stair6-platform,Wollaston
+node-wlsta-stair6gate-farepaid,Wollaston
+node-wlsta-stair6gate-fareunpaid,Wollaston
+node-wlsta-stair7-lobby,Wollaston
+node-wlsta-stair7-street,Wollaston
+node-wondl-busramp-busway,Wonderland
+node-wondl-busstairs-busway,Wonderland
+node-wondl-buswaydoor,Wonderland
+node-wondl-eplazacenter,Wonderland
+node-wondl-farepaid,Wonderland
+node-wondl-fareunpaid,Wonderland
+node-wondl-footbridgeib,Wonderland
+node-wondl-footbridgeob,Wonderland
+node-wondl-ibfootbridgestairs-lobby,Wonderland
+node-wondl-ibplazaentrance,Wonderland
+node-wondl-ibplazastairs-bridge,Wonderland
+node-wondl-ibplazastairs-lobby,Wonderland
+node-wondl-ibplazastairs-plaza,Wonderland
+node-wondl-lobbycenter,Wonderland
+node-wondl-nshoreplazastairs-plaza,Wonderland
+node-wondl-nshoreplazastairs-street,Wonderland
+node-wondl-nshorestairs-bottom,Wonderland
+node-wondl-obplatstairs-platform,Wonderland
+node-wondl-obplazaentrance,Wonderland
+node-wondl-obplazastairs-street,Wonderland
+node-wondl-oceanaveingress,Wonderland
+node-wondl-oceanramp-bottom,Wonderland
+node-wondl-oceanstairs-plaza,Wonderland
+node-wondl-plazacenter,Wonderland
+node-wondl-revereramp-top,Wonderland
+node-wtcst-farepaid,World Trade Center
+node-wtcst-fareunpaid,World Trade Center
+node-wtcst-ibstairs-lobby,World Trade Center
+node-wtcst-ibstairs-platform,World Trade Center
+node-wtcst-obstairs-lobby,World Trade Center
+node-wtcst-obstairs-platform,World Trade Center
+node-wtcst-paidlobbycenter,World Trade Center
+node-wtcst-wtcbstairs-landing,World Trade Center
+node-wtcst-wtcbstairs-lobby,World Trade Center
+node-wtcst-wtctstairs-landing,World Trade Center
+node-wtcst-wtctstairs-top,World Trade Center
+place-CM-0493,Wareham Village
+place-CM-0547,Buzzards Bay
+place-CM-0564,Bourne
+place-CM-0790,Hyannis
+place-DB-0095,Readville
+place-DB-2205,Fairmount
+place-DB-2222,Blue Hill Avenue
+place-DB-2230,Morton Street
+place-DB-2240,Talbot Avenue
+place-DB-2249,Four Corners/Geneva
+place-DB-2258,Uphams Corner
+place-DB-2265,Newmarket
+place-ER-0099,River Works
+place-ER-0115,Lynn
+place-ER-0117,Lynn Interim
+place-ER-0128,Swampscott
+place-ER-0168,Salem
+place-ER-0183,Beverly
+place-ER-0208,North Beverly
+place-ER-0227,Hamilton/Wenham
+place-ER-0276,Ipswich
+place-ER-0312,Rowley
+place-ER-0362,Newburyport
+place-FB-0109,Endicott
+place-FB-0118,Dedham Corporate Center
+place-FB-0125,Islington
+place-FB-0143,Norwood Depot
+place-FB-0148,Norwood Central
+place-FB-0166,Windsor Gardens
+place-FB-0177,Plimptonville
+place-FB-0191,Walpole
+place-FB-0230,Norfolk
+place-FB-0275,Franklin
+place-FB-0303,Forge Park/495
+place-FR-0064,Belmont
+place-FR-0074,Waverley
+place-FR-0098,Waltham
+place-FR-0115,Brandeis/Roberts
+place-FR-0132,Kendal Green
+place-FR-0137,Hastings
+place-FR-0147,Silver Hill
+place-FR-0167,Lincoln
+place-FR-0201,Concord
+place-FR-0219,West Concord
+place-FR-0253,South Acton
+place-FR-0301,Littleton/Route 495
+place-FR-0361,Ayer
+place-FR-0394,Shirley
+place-FR-0451,North Leominster
+place-FR-0494,Fitchburg
+place-FR-3338,Wachusett
+place-FRS-0054,Freetown
+place-FRS-0109,Fall River Depot
+place-FS-0049,Foxboro
+place-GB-0198,Montserrat
+place-GB-0222,Prides Crossing
+place-GB-0229,Beverly Farms
+place-GB-0254,Manchester
+place-GB-0296,West Gloucester
+place-GB-0316,Gloucester
+place-GB-0353,Rockport
+place-GRB-0118,Weymouth Landing/East Braintree
+place-GRB-0146,East Weymouth
+place-GRB-0162,West Hingham
+place-GRB-0183,Nantasket Junction
+place-GRB-0199,Cohasset
+place-GRB-0233,North Scituate
+place-GRB-0276,Greenbush
+place-KB-0351,Kingston
+place-MBS-0350,Middleborough
+place-MM-0150,Holbrook/Randolph
+place-MM-0186,Montello
+place-MM-0200,Brockton
+place-MM-0219,Campello
+place-MM-0277,Bridgewater
+place-MM-0356,Lakeville
+place-NB-0064,Roslindale Village
+place-NB-0072,Bellevue
+place-NB-0076,Highland
+place-NB-0080,West Roxbury
+place-NB-0109,Hersey
+place-NB-0120,Needham Junction
+place-NB-0127,Needham Center
+place-NB-0137,Needham Heights
+place-NBM-0374,East Taunton
+place-NBM-0523,Church Street
+place-NBM-0546,New Bedford
+place-NEC-1659,Wickford Junction
+place-NEC-1768,TF Green Airport
+place-NEC-1851,Providence
+place-NEC-1891,Pawtucket/Central Falls
+place-NEC-1919,South Attleboro
+place-NEC-1969,Attleboro
+place-NEC-2040,Mansfield
+place-NEC-2108,Sharon
+place-NEC-2139,Canton Junction
+place-NEC-2173,Route 128
+place-NEC-2203,Hyde Park
+place-NHRML-0055,West Medford
+place-NHRML-0073,Wedgemere
+place-NHRML-0078,Winchester Center
+place-NHRML-0116,Mishawum
+place-NHRML-0127,Anderson/Woburn
+place-NHRML-0152,Wilmington
+place-NHRML-0218,North Billerica
+place-NHRML-0254,Lowell
+place-PB-0158,South Weymouth
+place-PB-0194,Abington
+place-PB-0212,Whitman
+place-PB-0245,Hanson
+place-PB-0281,Halifax
+place-PB-0356,Plymouth
+place-SB-0156,Canton Center
+place-SB-0189,Stoughton
+place-WML-0025,Lansdowne
+place-WML-0035,Boston Landing
+place-WML-0081,Newtonville
+place-WML-0091,West Newton
+place-WML-0102,Auburndale
+place-WML-0125,Wellesley Farms
+place-WML-0135,Wellesley Hills
+place-WML-0147,Wellesley Square
+place-WML-0177,Natick Center
+place-WML-0199,West Natick
+place-WML-0214,Framingham
+place-WML-0252,Ashland
+place-WML-0274,Southborough
+place-WML-0340,Westborough
+place-WML-0364,Grafton
+place-WML-0442,Worcester
+place-WR-0062,Wyoming Hill
+place-WR-0067,Melrose/Cedar Park
+place-WR-0075,Melrose Highlands
+place-WR-0085,Greenwood
+place-WR-0099,Wakefield
+place-WR-0120,Reading
+place-WR-0163,North Wilmington
+place-WR-0205,Ballardvale
+place-WR-0228,Andover
+place-WR-0264,Lawrence
+place-WR-0325,Bradford
+place-WR-0329,Haverhill
+place-alfcl,Alewife
+place-alsgr,Allston Street
+place-amory,Amory Street
+place-andrw,Andrew
+place-aport,Airport
+place-aqucl,Aquarium
+place-armnl,Arlington
+place-asmnl,Ashmont
+place-astao,Assembly
+place-babck,Babcock Street
+place-balsq,Ball Square
+place-bbsta,Back Bay
+place-bckhl,Back of the Hill
+place-bcnfd,Beaconsfield
+place-bcnwa,Washington Square
+place-belsq,Bellingham Square
+place-bland,Blandford Street
+place-bmmnl,Beachmont
+place-bndhl,Brandon Hall
+place-bomnl,Bowdoin
+place-boxdt,Box District
+place-boyls,Boylston
+place-brdwy,Broadway
+place-brico,Packard's Corner
+place-brkhl,Brookline Hills
+place-brmnl,Brigham Circle
+place-brntn,Braintree
+place-bucen,Boston University Central
+place-buest,Boston University East
+place-butlr,Butler
+place-bvmnl,Brookline Village
+place-capst,Capen Street
+place-ccmnl,Community College
+place-cedgr,Cedar Grove
+place-cenav,Central Avenue
+place-chels,Chelsea
+place-chhil,Chestnut Hill
+place-chill,Chestnut Hill Avenue
+place-chmnl,Charles/MGH
+place-chncl,Chinatown
+place-chswk,Chiswick Road
+place-clmnl,Cleveland Circle
+place-cntsq,Central
+place-coecl,Copley
+place-conrd,Silver Line Way
+place-cool,Coolidge Corner
+place-crtst,Courthouse
+place-davis,Davis
+place-denrd,Dean Road
+place-dwnxg,Downtown Crossing
+place-eliot,Eliot
+place-engav,Englewood Avenue
+place-esomr,East Somerville
+place-estav,Eastern Avenue
+place-fbkst,Fairbanks Street
+place-fenwd,Fenwood Road
+place-fenwy,Fenway
+place-fldcr,Fields Corner
+place-forhl,Forest Hills
+place-gilmn,Gilman Square
+place-gover,Government Center
+place-grigg,Griggs Street
+place-grnst,Green Street
+place-haecl,Haymarket
+place-harsq,Harvard
+place-harvd,Harvard Avenue
+place-hsmnl,Heath Street
+place-hwsst,Hawes Street
+place-hymnl,Hynes Convention Center
+place-jaksn,Jackson Square
+place-jfk,JFK/UMass
+place-kencl,Kenmore
+place-knncl,Kendall/MIT
+place-kntst,Kent Street
+place-lake,Boston College
+place-lech,Lechmere
+place-lngmd,Longwood Medical Area
+place-longw,Longwood
+place-masta,Massachusetts Avenue
+place-matt,Mattapan
+place-mdftf,Medford/Tufts
+place-mfa,Museum of Fine Arts
+place-mgngl,Magoun Square
+place-miltt,Milton
+place-mispk,Mission Park
+place-mlmnl,Malden Center
+place-mvbcl,Maverick
+place-newtn,Newton Highlands
+place-newto,Newton Centre
+place-north,North Station
+place-nqncy,North Quincy
+place-nubn,Nubian
+place-nuniv,Northeastern University
+place-ogmnl,Oak Grove
+place-orhte,Orient Heights
+place-pktrm,Park Street
+place-portr,Porter
+place-prmnl,Prudential
+place-qamnl,Quincy Adams
+place-qnctr,Quincy Center
+place-rbmnl,Revere Beach
+place-rcmnl,Roxbury Crossing
+place-river,Riverside
+place-rsmnl,Reservoir
+place-rugg,Ruggles
+place-rvrwy,Riverway
+place-sbmnl,Stony Brook
+place-sdmnl,Suffolk Downs
+place-shmnl,Savin Hill
+place-smary,Saint Mary's Street
+place-smmnl,Shawmut
+place-sougr,South Street
+place-spmnl,Science Park/West End
+place-sstat,South Station
+place-state,State
+place-sthld,Sutherland Road
+place-stpul,Saint Paul Street
+place-sull,Sullivan Square
+place-sumav,Summit Avenue
+place-symcl,Symphony
+place-tapst,Tappan Street
+place-tumnl,Tufts Medical Center
+place-unsqu,Union Square
+place-valrd,Valley Road
+place-waban,Waban
+place-wascm,Washington Street
+place-welln,Wellington
+place-wimnl,Wood Island
+place-wlsta,Wollaston
+place-wondl,Wonderland
+place-woodl,Woodland
+place-wrnst,Warren Street
+place-wtcst,World Trade Center
