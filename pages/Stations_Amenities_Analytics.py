@@ -257,7 +257,7 @@ with tab2:
         (filtered_data['Ramp'] == 'Yes') & 
         (filtered_data['Lift'] == 'Yes')
     ]
-    st.subheader("♿ Fully Accessible Stations")
+    st.subheader("Fully Accessible Stations")
     if len(full_access) > 0:
         st.dataframe(full_access[['Station', 'Lines_Str', 'Line_Count']], use_container_width=True)
     else:
@@ -321,6 +321,22 @@ display_data['Amenities'] = display_data.apply(add_amenity_icons, axis=1)
 
 # Show the table
 st.dataframe(display_data, use_container_width=True)
+
+# Amenity Icons Legend
+st.markdown("**Amenity Icons Legend**")
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    st.markdown("🅿️ **Parking** - Parking facilities")
+
+with col2:
+    st.markdown("♿ **Ramp** - Ramp access for wheelchairs")
+
+with col3:
+    st.markdown("🛗 **Lift** - Elevator/lift access")
+
+with col4:
+    st.markdown("🚇 **Underground** - Station located underground")
 
 # Summary insights
 st.header("Key Insights")

@@ -5,11 +5,6 @@ import plotly.graph_objects as go
 # ---------- PAGE CONFIG ----------
 st.set_page_config(page_title="Subway Network", layout="wide", page_icon="🚇")
 
-# ---------- SIDEBAR ----------
-# st.sidebar.markdown("## 🚇 Subway Map")
-# st.sidebar.markdown("Interactive visualization of Boston subway network.")
-# theme = st.sidebar.radio("🎨 Theme", ["Light", "Dark"], horizontal=True)
-
 # Custom CSS for better styling
 st.markdown("""
 <style>
@@ -132,8 +127,6 @@ color_map = {
     'blue': '#3498db',
     'green': '#2ecc71',
     'orange': '#e67e22',
-    'yellow': '#f1c40f',
-    'purple': '#9b59b6'
 }
 
 # ---------- BUILD FIGURE ----------

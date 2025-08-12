@@ -347,7 +347,7 @@ if user_question and st.button("Generate Analysis", type="primary"):
                 
                 if error:
                     st.error(f"SQL Error: {error}")
-                    st.info("💡 Tip: The AI might need to adjust the query. Try rephrasing your question.")
+                    st.info("Tip: The AI might need to adjust the query. Try rephrasing your question.")
                 elif result_df is not None:
                     st.success(f"Query executed successfully! Found {len(result_df)} results.")
                     

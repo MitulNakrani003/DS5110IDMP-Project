@@ -104,15 +104,15 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# --- Load data ---
+#Load data
 connections_df = pd.read_csv("connections.csv")
 
-# Normalize/clean
+#Normalize/clean
 connections_df["Color"] = connections_df["Color"].str.lower().str.strip()
 if "Minutes" in connections_df.columns:
     connections_df["Minutes"] = pd.to_numeric(connections_df["Minutes"], errors="coerce")
 
-# --- Color map ---
+#Color map
 color_map = {
     "red": "#e74c3c",
     "blue": "#3498db",
@@ -120,10 +120,8 @@ color_map = {
     "orange": "#e67e22",
 }
 
-# --- Filter Menu (Collapsible) ---
+#Filter Menu
 with st.expander("🔍 **Filter Options**", expanded=True):
-    #st.markdown('<div class="filter-container">', unsafe_allow_html=True)
-    
     # Create three columns for filters
     col1, col2, col3 = st.columns([1, 1, 1])
     
@@ -135,7 +133,7 @@ with st.expander("🔍 **Filter Options**", expanded=True):
             options=line_options,
             default=line_options,
             format_func=lambda x: x.title(),
-            help="Choose which metro lines to display"
+            help="Choose which train lines to display"
         )
     
     with col2:
@@ -164,7 +162,7 @@ with st.expander("🔍 **Filter Options**", expanded=True):
     
     st.markdown('</div>', unsafe_allow_html=True)
 
-# Apply filters
+#Apply filters
 df = connections_df.copy()
 if sel_lines:
     df = df[df["Color"].isin(sel_lines)]
@@ -178,7 +176,7 @@ if q:
         df["To"].str.lower().str.contains(q, na=False)
     ]
 
-# --- Statistics Cards ---
+#Statistics Cards
 st.markdown("### Connection Statistics")
 stats_col1, stats_col2, stats_col3 = st.columns(3)
 
@@ -207,7 +205,7 @@ with stats_col3:
     </div>
     """, unsafe_allow_html=True)
 
-# --- Color chip function ---
+#Color chip function
 def color_chip(line: str) -> str:
     bg = color_map.get(str(line).lower(), "#999")
     label = str(line).title()
@@ -225,22 +223,21 @@ df_display = pd.DataFrame({
     "Minutes": df["Minutes"] if "Minutes" in df.columns else None
 })
 
-# --- Results Section ---
+#Results Section
 st.markdown("### Connection Details")
 st.caption(f"Showing {len(df_display):,} connections based on the selectedfilters")
 
-# Render table as HTML
+#Render table as HTML
 st.markdown(
     df_display.to_html(escape=False, index=False, classes="conn-table"),
     unsafe_allow_html=True
 )
 
-# --- Download Section ---
-#st.markdown('<div class="download-section">', unsafe_allow_html=True)
+#Download Section
 st.markdown("**💾 Export Data**")
 csv_bytes = df[["From", "To", "Color", "Minutes"]].to_csv(index=False).encode("utf-8")
 st.download_button(
-    "⬇ Download Filtered Connections (CSV)",
+    "Download Filtered Connections (CSV)",
     data=csv_bytes,
     file_name="connections_filtered.csv",
     mime="text/csv",

@@ -140,15 +140,14 @@ avg_degree = sum(dict(G.degree()).values()) / len(G.nodes())
 density = nx.density(G)
 
 # Network overview metrics
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3 = st.columns(3)
 with col1:
     st.metric("Total Stations", total_stations)
 with col2:
     st.metric("Total Connections", total_connections)
 with col3:
     st.metric("Average Connections per Station", f"{avg_degree:.1f}")
-with col4:
-    st.metric("Network Density", f"{density:.3f}")
+
 
 # --- Line Analysis ---
 st.subheader("Line Performance Analysis")
