@@ -108,7 +108,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# --- Load Data ---
+# Load Data
 @st.cache_data
 def load_data():
     stations_df = pd.read_csv("stations.csv")
@@ -125,7 +125,7 @@ color_map = {
     'orange': '#e67e22', 'yellow': '#f1c40f', 'purple': '#9b59b6'
 }
 
-# --- Network Analysis ---
+# Network Analysis
 st.header("Network Structure Analysis")
 
 # Create network graph
@@ -149,7 +149,6 @@ with col3:
     st.metric("Average Connections per Station", f"{avg_degree:.1f}")
 
 
-# --- Line Analysis ---
 st.subheader("Line Performance Analysis")
 
 # Line statistics
@@ -202,7 +201,7 @@ fig_line_comparison.add_trace(
 fig_line_comparison.update_layout(height=600, showlegend=False, title_text="Line Performance Metrics")
 st.plotly_chart(fig_line_comparison, use_container_width=True)
 
-# --- Station Connectivity Analysis ---
+# Station Connectivity Analysis
 st.subheader("Station Connectivity Analysis")
 
 # Calculate degree centrality for each station
@@ -314,7 +313,7 @@ fig_geo_connectivity.update_layout(
 )
 st.plotly_chart(fig_geo_connectivity, use_container_width=True)
 
-# --- Key Insights ---
+# Key Insights
 st.subheader("Key Insights")
 
 most_efficient_line = line_stats["Efficiency"].idxmin()
@@ -331,7 +330,7 @@ with col1:
    
 
 
-# --- Data Summary Table ---
+# Data Summary Table 
 st.subheader("Network Summary")
 summary_data = {
     "Metric": ["Total Stations", "Total Connections", "Average Travel Time", "Most Connected Station"],

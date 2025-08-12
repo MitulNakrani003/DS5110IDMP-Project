@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-# ---------- PAGE CONFIG ----------
 st.set_page_config(page_title="Subway Network", layout="wide", page_icon="🚇")
 
 # Custom CSS for better styling
@@ -107,7 +106,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# ---------- LOAD DATA ----------
+# Load Data
 stations_df = pd.read_csv("stations.csv")
 locations_df = pd.read_csv("locations.csv")
 connections_df = pd.read_csv("connections.csv")
@@ -115,13 +114,13 @@ connections_df = pd.read_csv("connections.csv")
 locations_df_unique = locations_df.drop_duplicates(subset='Station Name', keep='first')
 location_map = locations_df_unique.set_index('Station Name')[['x', 'y']].to_dict('index')
 
-# ---------- SCALE COORDINATES ----------
+# Coordinate Sacling
 scale = 10
 for station in location_map:
     location_map[station]['x'] *= scale
     location_map[station]['y'] *= scale
 
-# ---------- COLOR MAPPING ----------
+# Color Mapping
 color_map = {
     'red': '#e74c3c',
     'blue': '#3498db',
@@ -129,7 +128,7 @@ color_map = {
     'orange': '#e67e22',
 }
 
-# ---------- BUILD FIGURE ----------
+# Build the mbta graph
 fig = go.Figure()
 
 # Draw colored edges per line
@@ -163,7 +162,6 @@ fig.add_trace(go.Scatter(
     name='Stations'
 ))
 
-# ---------- STYLING ----------
 fig.update_layout(
     title="Subway Network Map",
     showlegend=True,
@@ -176,5 +174,5 @@ fig.update_layout(
     plot_bgcolor='rgba(0,0,0,0)'
 )
 
-# ---------- DISPLAY FIGURE ----------
+# Display Map
 st.plotly_chart(fig, use_container_width=True)
